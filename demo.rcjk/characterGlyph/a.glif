@@ -41,8 +41,8 @@
       <point x="367" y="47"/>
       <point x="364" y="100" type="qcurve"/>
       <point x="364" y="103" type="line"/>
-      <point x="364" y="359" type="line" smooth="yes"/>
-      <point x="364" y="415"/>
+      <point x="358" y="289" type="line" smooth="yes"/>
+      <point x="356" y="345"/>
       <point x="340" y="476"/>
       <point x="290" y="500"/>
       <point x="250" y="500" type="qcurve" smooth="yes"/>
@@ -60,8 +60,8 @@
       <point x="188" y="531"/>
       <point x="272" y="531" type="qcurve" smooth="yes"/>
       <point x="359" y="531"/>
-      <point x="444" y="448"/>
-      <point x="444" y="355" type="qcurve" smooth="yes"/>
+      <point x="443" y="269"/>
+      <point x="443" y="177" type="qcurve" smooth="yes"/>
       <point x="444" y="108" type="line" smooth="yes"/>
       <point x="444" y="61"/>
       <point x="466" y="28"/>
@@ -77,7 +77,7 @@
   <lib>
     <dict>
       <key>robocjk.status</key>
-      <integer>0</integer>
+      <integer>1</integer>
     </dict>
   </lib>
 </glyph>
