@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="compo2" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="168" y="171" type="line"/>
+      <point x="168" y="10" type="line"/>
+      <point x="329" y="10" type="line"/>
+      <point x="329" y="171" type="line"/>
+    </contour>
+    <contour>
+      <point x="89" y="534" type="line"/>
+      <point x="89" y="374.5" type="line"/>
+      <point x="248.5" y="374.5" type="line"/>
+      <point x="248.5" y="534" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>width=100</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=45.1</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <real>45.1170583307614</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=45.1</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
