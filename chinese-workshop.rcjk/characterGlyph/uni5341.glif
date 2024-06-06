@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni5341" format="2">
+  <advance width="1000"/>
+  <unicode hex="5341"/>
+  <outline>
+    <contour>
+      <point x="464" y="834" type="line"/>
+      <point x="570" y="823" type="line"/>
+      <point x="569" y="812"/>
+      <point x="553" y="796"/>
+      <point x="532" y="793" type="qcurve"/>
+      <point x="532" y="-49" type="line" smooth="yes"/>
+      <point x="532" y="-53"/>
+      <point x="515" y="-67"/>
+      <point x="490" y="-76"/>
+      <point x="477" y="-76" type="qcurve" smooth="yes"/>
+      <point x="464" y="-76" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="472" type="line"/>
+      <point x="808" y="472" type="line"/>
+      <point x="861" y="541" type="line"/>
+      <point x="861" y="541"/>
+      <point x="881" y="525"/>
+      <point x="911" y="500"/>
+      <point x="945" y="471"/>
+      <point x="958" y="459" type="qcurve"/>
+      <point x="954" y="443"/>
+      <point x="932" y="443" type="qcurve" smooth="yes"/>
+      <point x="53" y="443" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

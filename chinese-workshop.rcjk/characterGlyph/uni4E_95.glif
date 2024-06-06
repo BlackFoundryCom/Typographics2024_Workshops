@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni4E95" format="2">
+  <advance width="1000"/>
+  <unicode hex="4E95"/>
+  <outline>
+    <contour>
+      <point x="311" y="832" type="line"/>
+      <point x="411" y="822" type="line"/>
+      <point x="410" y="812"/>
+      <point x="395" y="797"/>
+      <point x="377" y="794" type="qcurve"/>
+      <point x="377" y="399" type="line" smooth="yes"/>
+      <point x="377" y="295"/>
+      <point x="329" y="117"/>
+      <point x="213" y="-27"/>
+      <point x="107" y="-81" type="qcurve"/>
+      <point x="96" y="-67" type="line"/>
+      <point x="181" y="-12"/>
+      <point x="274" y="129"/>
+      <point x="311" y="299"/>
+      <point x="311" y="399" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="628" y="834" type="line"/>
+      <point x="730" y="823" type="line"/>
+      <point x="729" y="813"/>
+      <point x="714" y="798"/>
+      <point x="695" y="795" type="qcurve"/>
+      <point x="695" y="-51" type="line" smooth="yes"/>
+      <point x="695" y="-55"/>
+      <point x="678" y="-68"/>
+      <point x="654" y="-77"/>
+      <point x="641" y="-77" type="qcurve" smooth="yes"/>
+      <point x="628" y="-77" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="330" type="line"/>
+      <point x="824" y="330" type="line"/>
+      <point x="875" y="393" type="line"/>
+      <point x="875" y="393"/>
+      <point x="893" y="378"/>
+      <point x="921" y="355"/>
+      <point x="952" y="328"/>
+      <point x="966" y="316" type="qcurve"/>
+      <point x="964" y="308"/>
+      <point x="950" y="301"/>
+      <point x="939" y="301" type="qcurve" smooth="yes"/>
+      <point x="53" y="301" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="609" type="line"/>
+      <point x="798" y="609" type="line"/>
+      <point x="846" y="669" type="line"/>
+      <point x="846" y="669"/>
+      <point x="863" y="656"/>
+      <point x="891" y="633"/>
+      <point x="921" y="607"/>
+      <point x="934" y="595" type="qcurve"/>
+      <point x="930" y="579"/>
+      <point x="907" y="579" type="qcurve" smooth="yes"/>
+      <point x="86" y="579" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
