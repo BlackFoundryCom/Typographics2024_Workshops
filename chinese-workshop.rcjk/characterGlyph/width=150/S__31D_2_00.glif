@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_31D2_00" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="887" y="743" type="line"/>
+      <point x="882" y="730"/>
+      <point x="872" y="725"/>
+      <point x="843" y="725" type="curve"/>
+      <point x="836" y="432"/>
+      <point x="803" y="93"/>
+      <point x="755" y="-79" type="curve"/>
+      <point x="737" y="-69" type="line"/>
+      <point x="771" y="130"/>
+      <point x="778" y="484"/>
+      <point x="774" y="771" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
