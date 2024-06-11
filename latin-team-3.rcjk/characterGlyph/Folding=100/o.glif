@@ -73,7 +73,7 @@
       <point x="214.99" y="459.21" type="line"/>
       <point x="169.9" y="459.21"/>
       <point x="127.9" y="438.41999999999996"/>
-      <point x="96.74000000000001" y="400.67999999999995" type="curve" smooth="yes"/>
+      <point x="96.74000000000001" y="400.67999999999995" type="curve"/>
       <point x="65.38000000000001" y="362.68999999999994"/>
       <point x="48.11000000000001" y="311.53"/>
       <point x="48.11000000000001" y="256.63" type="curve" smooth="yes"/>
@@ -262,28 +262,4 @@
       <point x="242.76" y="115.44000000000005" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>robocjk.status</key>
-      <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>Folding=100</string>
-          <key>location</key>
-          <dict>
-            <key>Folding</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>Folding=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>
