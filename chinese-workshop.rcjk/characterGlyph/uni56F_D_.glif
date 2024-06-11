@@ -88,6 +88,19 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>500</integer>
+          <key>maxValue</key>
+          <integer>500</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
     </dict>
