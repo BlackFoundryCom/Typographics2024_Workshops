@@ -273,7 +273,7 @@
           <string>Folding=100</string>
           <key>location</key>
           <dict>
-            <key>Folding</key>
+            <key>weight</key>
             <integer>100</integer>
           </dict>
           <key>on</key>
