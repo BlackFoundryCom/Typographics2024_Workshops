@@ -13,10 +13,10 @@
       <point x="364" y="0" type="curve"/>
       <point x="364" y="40" type="line"/>
       <point x="309" y="40"/>
-      <point x="290" y="50"/>
-      <point x="290" y="80" type="curve"/>
-      <point x="216" y="80" type="line"/>
-      <point x="216" y="51"/>
+      <point x="293" y="50"/>
+      <point x="293" y="80" type="curve"/>
+      <point x="213" y="80" type="line"/>
+      <point x="213" y="51"/>
       <point x="197" y="40"/>
     </contour>
   </outline>
