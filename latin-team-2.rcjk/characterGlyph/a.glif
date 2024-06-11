@@ -91,6 +91,8 @@
           <string>weight=100</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <real>780.2009174804065</real>
         </dict>
         <dict>
           <key>layerName</key>
