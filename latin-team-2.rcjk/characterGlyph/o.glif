@@ -64,16 +64,13 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>Weight 100</string>
+          <string>Round 100</string>
           <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>100</integer>
-          </dict>
+          <dict/>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>Weight 100</string>
+          <string>Round 100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

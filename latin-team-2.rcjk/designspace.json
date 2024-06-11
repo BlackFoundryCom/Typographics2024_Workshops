@@ -2,12 +2,12 @@
     "axes": {
         "axes": [
             {
-                "defaultValue": 900,
-                "label": "Weight",
-                "maxValue": 900,
-                "minValue": 100,
-                "name": "weight",
-                "tag": "wght"
+                "defaultValue": 100,
+                "label": "Round",
+                "maxValue": 100,
+                "minValue": 0,
+                "name": "Round",
+                "tag": "ROND"
             }
         ]
     },
