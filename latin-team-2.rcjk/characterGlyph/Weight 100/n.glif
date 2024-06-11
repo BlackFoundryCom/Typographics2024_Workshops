@@ -20,31 +20,7 @@
       <point x="386" y="132" type="curve"/>
       <point x="386" y="107" type="line"/>
       <point x="437" y="107" type="line"/>
-      <point x="437" y="439" type="line"/>
+      <point x="299" y="348" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>robocjk.status</key>
-      <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>Weight 100</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>Weight 100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

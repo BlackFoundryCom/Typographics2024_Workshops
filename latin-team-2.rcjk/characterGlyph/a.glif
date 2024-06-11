@@ -107,21 +107,6 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
-        <dict>
-          <key>layerName</key>
-          <string>Long=100</string>
-          <key>location</key>
-          <dict>
-            <key>Long</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>Long=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
       </array>
     </dict>
   </lib>
