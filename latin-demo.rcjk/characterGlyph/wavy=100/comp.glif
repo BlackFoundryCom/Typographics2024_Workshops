@@ -4,11 +4,13 @@
   <outline>
     <contour>
       <point x="128" y="576" type="line"/>
-      <point x="128" y="400"/>
-      <point x="128" y="224"/>
+      <point x="271" y="433"/>
+      <point x="-31" y="207"/>
       <point x="128" y="48" type="curve"/>
       <point x="353" y="48" type="line"/>
-      <point x="353" y="576" type="line"/>
+      <point x="192" y="209"/>
+      <point x="495" y="434"/>
+      <point x="353" y="576" type="curve"/>
     </contour>
   </outline>
 </glyph>
