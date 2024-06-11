@@ -75,7 +75,7 @@
               <key>transform</key>
               <dict>
                 <key>rotation</key>
-                <integer>360</integer>
+                <integer>0</integer>
                 <key>scalex</key>
                 <integer>1</integer>
                 <key>scaley</key>
