@@ -2,12 +2,12 @@
     "axes": {
         "axes": [
             {
-                "defaultValue": 0,
-                "label": "folding",
-                "maxValue": 100,
-                "minValue": 0,
-                "name": "Folding",
-                "tag": "FOLD"
+                "defaultValue": 400,
+                "label": "Weight",
+                "maxValue": 900,
+                "minValue": 100,
+                "name": "weight",
+                "tag": "wght"
             }
         ]
     },
@@ -15,36 +15,11 @@
         "vendorID": "LDTP"
     },
     "sources": {
-        "3dc4265c": {
+        "91267714": {
             "location": {
-                "Folding": 100
+                "weight": 400
             },
-            "name": "Fans",
-            "verticalMetrics": {
-                "ascender": {
-                    "value": 800,
-                    "zone": 16
-                },
-                "baseline": {
-                    "value": 0,
-                    "zone": -16
-                },
-                "capHeight": {
-                    "value": 750,
-                    "zone": 16
-                },
-                "descender": {
-                    "value": -250,
-                    "zone": -16
-                },
-                "xHeight": {
-                    "value": 500,
-                    "zone": 16
-                }
-            }
-        },
-        "d7032b35": {
-            "name": "Geometric",
+            "name": "Default",
             "verticalMetrics": {
                 "ascender": {
                     "value": 800,
