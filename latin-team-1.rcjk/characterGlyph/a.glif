@@ -46,12 +46,6 @@
       <point x="191" y="396"/>
       <point x="187" y="416"/>
     </contour>
-    <contour>
-      <point x="343" y="380" type="line"/>
-      <point x="343" y="29" type="line"/>
-      <point x="423" y="29" type="line"/>
-      <point x="423" y="380" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -78,6 +72,36 @@
             <integer>636</integer>
             <key>y</key>
             <integer>646</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>100</integer>
+            <key>spikeleft</key>
+            <integer>0</integer>
+            <key>spikeright</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>stem</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>130</integer>
+            <key>y</key>
+            <integer>-3</integer>
           </dict>
         </dict>
       </array>
