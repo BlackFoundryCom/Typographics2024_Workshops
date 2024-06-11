@@ -21,6 +21,19 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>spikeright</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
@@ -30,7 +43,7 @@
           <string>tuscan</string>
           <key>location</key>
           <dict>
-            <key>Serif</key>
+            <key>spikeright</key>
             <integer>100</integer>
           </dict>
           <key>on</key>

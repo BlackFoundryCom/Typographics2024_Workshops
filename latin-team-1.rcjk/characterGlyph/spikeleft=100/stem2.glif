@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="stem2" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="189" y="496" type="line"/>
+      <point x="189" y="341" type="line"/>
+      <point x="138" y="271" type="line"/>
+      <point x="189" y="205" type="line"/>
+      <point x="189" y="38" type="line"/>
+      <point x="269" y="38" type="line"/>
+      <point x="269" y="200" type="line"/>
+      <point x="269" y="273" type="line"/>
+      <point x="269" y="340" type="line"/>
+      <point x="269" y="496" type="line"/>
+    </contour>
+  </outline>
+</glyph>
