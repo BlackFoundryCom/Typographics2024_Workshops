@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c" format="2">
+  <advance width="500"/>
+  <unicode hex="0063"/>
+  <outline>
+    <contour>
+      <point x="226" y="0" type="line"/>
+      <point x="81.6148503545655" y="0"/>
+      <point x="0" y="130.14511892071607"/>
+      <point x="0" y="265" type="curve" smooth="yes"/>
+      <point x="0" y="402.9296441308596"/>
+      <point x="88.06604355787988" y="516"/>
+      <point x="232" y="516" type="curve" smooth="yes"/>
+      <point x="311.62" y="516"/>
+      <point x="372.43" y="489.3"/>
+      <point x="412.76" y="436.65" type="curve"/>
+      <point x="403.23" y="429.35" type="line"/>
+      <point x="365.3" y="478.88"/>
+      <point x="307.68" y="504"/>
+      <point x="232" y="504" type="curve" smooth="yes"/>
+      <point x="94.42308022654669" y="504"/>
+      <point x="12" y="396.41074432809523"/>
+      <point x="12" y="265" type="curve" smooth="yes"/>
+      <point x="12" y="136.88505794727337"/>
+      <point x="88.19617205370994" y="11.999999999999943"/>
+      <point x="226" y="11.999999999999943" type="curve" smooth="yes"/>
+      <point x="329.40999999999997" y="11.999999999999943"/>
+      <point x="400.96000000000004" y="70.83999999999992"/>
+      <point x="421.77" y="107.93999999999994" type="curve"/>
+      <point x="432.22999999999996" y="102.06999999999994" type="line"/>
+      <point x="394.7296066444494" y="35.22392636621575"/>
+      <point x="298.29882186120926" y="0.009999999999990905"/>
+      <point x="225.98999999999998" y="0.009999999999990905" type="curve"/>
+    </contour>
+    <contour>
+      <point x="226" y="0" type="line"/>
+      <point x="82" y="0"/>
+      <point x="0" y="130"/>
+      <point x="0" y="265" type="curve" smooth="yes"/>
+      <point x="0" y="403"/>
+      <point x="88" y="516"/>
+      <point x="232" y="516" type="curve" smooth="yes"/>
+      <point x="312" y="516"/>
+      <point x="372" y="489"/>
+      <point x="413" y="437" type="curve"/>
+      <point x="403" y="429" type="line"/>
+      <point x="365" y="479"/>
+      <point x="308" y="504"/>
+      <point x="232" y="504" type="curve" smooth="yes"/>
+      <point x="94" y="504"/>
+      <point x="12" y="396"/>
+      <point x="12" y="265" type="curve" smooth="yes"/>
+      <point x="12" y="137"/>
+      <point x="88" y="12"/>
+      <point x="226" y="12" type="curve" smooth="yes"/>
+      <point x="329" y="12"/>
+      <point x="401" y="71"/>
+      <point x="422" y="108" type="curve"/>
+      <point x="432" y="102" type="line"/>
+      <point x="395" y="35"/>
+      <point x="298" y="0"/>
+      <point x="226" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="226" y="0" type="line"/>
+      <point x="82" y="0"/>
+      <point x="0" y="130"/>
+      <point x="0" y="265" type="curve" smooth="yes"/>
+      <point x="0" y="403"/>
+      <point x="88" y="516"/>
+      <point x="232" y="516" type="curve" smooth="yes"/>
+      <point x="312" y="516"/>
+      <point x="372" y="489"/>
+      <point x="413" y="437" type="curve"/>
+      <point x="403" y="429" type="line"/>
+      <point x="365" y="479"/>
+      <point x="308" y="504"/>
+      <point x="232" y="504" type="curve" smooth="yes"/>
+      <point x="94" y="504"/>
+      <point x="12" y="396"/>
+      <point x="12" y="265" type="curve" smooth="yes"/>
+      <point x="12" y="137"/>
+      <point x="88" y="12"/>
+      <point x="226" y="12" type="curve" smooth="yes"/>
+      <point x="329" y="12"/>
+      <point x="401" y="71"/>
+      <point x="422" y="108" type="curve"/>
+      <point x="432" y="102" type="line"/>
+      <point x="395" y="35"/>
+      <point x="298" y="0"/>
+      <point x="226" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>Serif=50</string>
+          <key>location</key>
+          <dict>
+            <key>Serif</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Serif=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Serif=100</string>
+          <key>location</key>
+          <dict>
+            <key>Serif</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Serif=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
