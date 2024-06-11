@@ -4,7 +4,7 @@
             {
                 "defaultValue": 0,
                 "label": "Serif",
-                "maxValue": 100,
+                "maxValue": 150,
                 "minValue": 0,
                 "name": "Serif",
                 "tag": "SERF"
