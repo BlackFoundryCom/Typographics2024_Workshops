@@ -16,9 +16,9 @@
       <point x="489" y="411"/>
       <point x="489" y="450" type="curve" smooth="yes"/>
       <point x="489" y="492"/>
-      <point x="460" y="507"/>
-      <point x="427" y="507" type="curve" smooth="yes"/>
-      <point x="363" y="507"/>
+      <point x="462" y="512"/>
+      <point x="429" y="512" type="curve" smooth="yes"/>
+      <point x="365" y="512"/>
       <point x="306" y="404"/>
     </contour>
   </outline>
@@ -154,6 +154,8 @@
               <dict>
                 <key>spikeleft</key>
                 <integer>100</integer>
+                <key>spikeright</key>
+                <integer>0</integer>
               </dict>
               <key>name</key>
               <string>stem</string>
