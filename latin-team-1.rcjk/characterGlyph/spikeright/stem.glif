@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="stem" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="293" y="478" type="curve"/>
+      <point x="213" y="478" type="line"/>
+      <point x="213" y="287"/>
+      <point x="211" y="282"/>
+      <point x="210" y="270" type="curve"/>
+      <point x="213" y="253"/>
+      <point x="213" y="249"/>
+      <point x="213" y="40" type="curve"/>
+      <point x="293" y="40" type="line"/>
+      <point x="293" y="249"/>
+      <point x="297" y="255"/>
+      <point x="329" y="270" type="curve"/>
+      <point x="295" y="282"/>
+      <point x="293" y="287"/>
+    </contour>
+  </outline>
+</glyph>

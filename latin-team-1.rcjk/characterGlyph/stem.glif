@@ -33,6 +33,16 @@
           <key>name</key>
           <string>spikeright</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>spikeleft</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -40,7 +50,7 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>tuscan</string>
+          <string>spikeright</string>
           <key>location</key>
           <dict>
             <key>spikeright</key>
@@ -49,7 +59,22 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>tuscan</string>
+          <string>spikeright</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>spikeleft=100</string>
+          <key>location</key>
+          <dict>
+            <key>spikeleft</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>spikeleft=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

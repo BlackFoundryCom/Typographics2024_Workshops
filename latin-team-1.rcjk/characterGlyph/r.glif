@@ -3,6 +3,24 @@
   <advance width="500"/>
   <unicode hex="0072"/>
   <outline>
+    <contour>
+      <point x="290" y="371" type="curve"/>
+      <point x="288" y="342" type="line"/>
+      <point x="318" y="400"/>
+      <point x="330" y="424"/>
+      <point x="356" y="424" type="curve" smooth="yes"/>
+      <point x="383" y="424"/>
+      <point x="401" y="404"/>
+      <point x="426" y="404" type="curve" smooth="yes"/>
+      <point x="451" y="404"/>
+      <point x="489" y="411"/>
+      <point x="489" y="459" type="curve" smooth="yes"/>
+      <point x="489" y="501"/>
+      <point x="460" y="516"/>
+      <point x="427" y="516" type="curve" smooth="yes"/>
+      <point x="363" y="516"/>
+      <point x="306" y="413"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -77,34 +95,6 @@
             <integer>0</integer>
           </dict>
         </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>spikeleft</key>
-            <integer>0</integer>
-            <key>spikeright</key>
-            <integer>0</integer>
-          </dict>
-          <key>name</key>
-          <string>stem2</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>162</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -161,7 +151,10 @@
             </dict>
             <dict>
               <key>coord</key>
-              <dict/>
+              <dict>
+                <key>spikeleft</key>
+                <integer>100</integer>
+              </dict>
               <key>name</key>
               <string>stem</string>
               <key>transform</key>
@@ -182,37 +175,9 @@
                 <integer>0</integer>
               </dict>
             </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>spikeleft</key>
-                <integer>100</integer>
-                <key>spikeright</key>
-                <real>32.0629474940334</real>
-              </dict>
-              <key>name</key>
-              <string>stem2</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>162</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </dict>
           </array>
           <key>layerName</key>
-          <string></string>
+          <string>Serif=100</string>
           <key>location</key>
           <dict>
             <key>Serif</key>

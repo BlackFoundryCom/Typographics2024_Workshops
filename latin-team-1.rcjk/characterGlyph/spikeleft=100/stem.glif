@@ -7,14 +7,14 @@
       <point x="213" y="478" type="line"/>
       <point x="213" y="287"/>
       <point x="211" y="282"/>
-      <point x="173" y="270" type="curve"/>
-      <point x="213" y="253"/>
+      <point x="177" y="270" type="curve"/>
+      <point x="209" y="255"/>
       <point x="213" y="249"/>
       <point x="213" y="40" type="curve"/>
       <point x="293" y="40" type="line"/>
       <point x="293" y="249"/>
-      <point x="297" y="255"/>
-      <point x="329" y="270" type="curve"/>
+      <point x="293" y="253"/>
+      <point x="296" y="270" type="curve"/>
       <point x="295" y="282"/>
       <point x="293" y="287"/>
     </contour>
