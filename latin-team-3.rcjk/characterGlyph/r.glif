@@ -8,6 +8,26 @@
     <dict>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>folding=100</string>
+          <key>location</key>
+          <dict>
+            <key>folding</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>folding=100</string>
+          <key>status</key>
+          <integer>0</integer>
+          <key>width</key>
+          <real>550.01</real>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
