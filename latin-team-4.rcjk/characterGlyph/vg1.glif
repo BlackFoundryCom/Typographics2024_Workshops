@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vg1" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="20" y="5" type="curve" smooth="yes"/>
+      <point x="12" y="5"/>
+      <point x="5" y="12"/>
+      <point x="5" y="20" type="curve" smooth="yes"/>
+      <point x="5" y="28"/>
+      <point x="12" y="35"/>
+      <point x="20" y="35" type="curve" smooth="yes"/>
+      <point x="28" y="35"/>
+      <point x="35" y="28"/>
+      <point x="35" y="20" type="curve" smooth="yes"/>
+      <point x="35" y="12"/>
+      <point x="28" y="5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>jump*1</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>jump*2</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>jump*1=100,jump*2=100</string>
+          <key>layerName</key>
+          <string>jump_1=100,jump_2=100.e34be2f99eae</string>
+          <key>location</key>
+          <dict>
+            <key>jump*1</key>
+            <integer>100</integer>
+            <key>jump*2</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>jump*1=100,jump*2=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>jump*1=100</string>
+          <key>layerName</key>
+          <string>jump_1=100.d6ab3edc7b39</string>
+          <key>location</key>
+          <dict>
+            <key>jump*1</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>jump*1=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>jump*2=100</string>
+          <key>layerName</key>
+          <string>jump_2=100.c0d1df614d5a</string>
+          <key>location</key>
+          <dict>
+            <key>jump*2</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>jump*2=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
