@@ -1,13 +1,83 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="o" format="2">
-  <advance width="500"/>
+  <advance width="414.65"/>
   <unicode hex="006F"/>
   <outline>
+    <contour>
+      <point x="282.65" y="0" type="curve" smooth="yes"/>
+      <point x="242.32999999999998" y="0"/>
+      <point x="205.36999999999998" y="3.8000000000000114"/>
+      <point x="172.74999999999997" y="11.29000000000002" type="curve" smooth="yes"/>
+      <point x="130.37999999999997" y="21.03000000000003"/>
+      <point x="95.16999999999997" y="37.08000000000004"/>
+      <point x="68.09999999999997" y="59.01000000000005" type="curve" smooth="yes"/>
+      <point x="22.91" y="95.61000000000001"/>
+      <point x="0" y="148.55"/>
+      <point x="0" y="216.33999999999997" type="curve" smooth="yes"/>
+      <point x="0" y="288.16999999999996"/>
+      <point x="23.72" y="344.78999999999996"/>
+      <point x="70.49" y="384.65" type="curve" smooth="yes"/>
+      <point x="95.88" y="406.28"/>
+      <point x="128.17" y="422.96"/>
+      <point x="166.49" y="434.21999999999997" type="curve" smooth="yes"/>
+      <point x="196.86" y="443.15"/>
+      <point x="231.09" y="448.72999999999996"/>
+      <point x="268.22" y="450.78999999999996" type="curve" smooth="yes"/>
+      <point x="331.25" y="454.3"/>
+      <point x="380.22" y="446.57"/>
+      <point x="382.28000000000003" y="446.24" type="curve"/>
+      <point x="379.74" y="430.44" type="line"/>
+      <point x="379.25" y="430.52"/>
+      <point x="330.13" y="438.24"/>
+      <point x="268.76" y="434.78999999999996" type="curve" smooth="yes"/>
+      <point x="212.70999999999998" y="431.64"/>
+      <point x="134.60999999999999" y="418.26"/>
+      <point x="80.84" y="372.42999999999995" type="curve" smooth="yes"/>
+      <point x="37.81" y="335.77"/>
+      <point x="16" y="283.25"/>
+      <point x="16" y="216.33999999999997" type="curve" smooth="yes"/>
+      <point x="16" y="153.61999999999995"/>
+      <point x="36.91" y="104.86999999999995"/>
+      <point x="78.14" y="71.45999999999998" type="curve" smooth="yes"/>
+      <point x="103.27" y="51.099999999999966"/>
+      <point x="136.24" y="36.11999999999995"/>
+      <point x="176.15" y="26.91999999999996" type="curve" smooth="yes"/>
+      <point x="208.45" y="19.47999999999996"/>
+      <point x="245.29000000000002" y="15.799999999999955"/>
+      <point x="285.64" y="15.999999999999943" type="curve" smooth="yes"/>
+      <point x="354.71999999999997" y="16.329999999999927"/>
+      <point x="410.78" y="28.039999999999964"/>
+      <point x="411.33" y="28.159999999999968" type="curve"/>
+      <point x="414.65" y="12.509999999999991" type="line"/>
+      <point x="412.32" y="12.009999999999991"/>
+      <point x="356.7" y="0.37000000000000455"/>
+      <point x="286.03999999999996" y="0" type="curve"/>
+      <point x="284.90999999999997" y="0"/>
+      <point x="283.77" y="0"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>Folding=100</string>
+          <key>location</key>
+          <dict>
+            <key>Folding</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Folding=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
