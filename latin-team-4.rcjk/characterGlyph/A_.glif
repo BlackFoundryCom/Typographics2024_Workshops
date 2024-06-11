@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="500"/>
+  <advance width="277"/>
   <unicode hex="0041"/>
   <outline>
   </outline>
@@ -31,7 +31,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>50</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -59,7 +59,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>177</integer>
+            <integer>227</integer>
             <key>y</key>
             <integer>227</integer>
           </dict>
@@ -87,7 +87,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>71</integer>
+            <integer>121</integer>
             <key>y</key>
             <integer>140</integer>
           </dict>
@@ -123,7 +123,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>0</integer>
+                <integer>50</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -151,7 +151,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>177</integer>
+                <integer>227</integer>
                 <key>y</key>
                 <integer>227</integer>
               </dict>
@@ -179,7 +179,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>71</integer>
+                <integer>121</integer>
                 <key>y</key>
                 <integer>160</integer>
               </dict>
@@ -225,7 +225,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>0</integer>
+                <integer>50</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -253,7 +253,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>177</integer>
+                <integer>227</integer>
                 <key>y</key>
                 <integer>227</integer>
               </dict>
@@ -281,7 +281,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>71</integer>
+                <integer>121</integer>
                 <key>y</key>
                 <integer>147</integer>
               </dict>
