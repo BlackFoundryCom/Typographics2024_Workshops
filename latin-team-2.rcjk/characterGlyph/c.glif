@@ -33,7 +33,7 @@
       <point x="25" y="47"/>
       <point x="12" y="71" type="curve"/>
       <point x="-5" y="204"/>
-      <point x="-20" y="337"/>
+      <point x="-5" y="361"/>
       <point x="46" y="469" type="curve"/>
       <point x="179" y="499"/>
       <point x="307" y="498"/>
@@ -47,16 +47,16 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>weight=100</string>
+          <string>round 0</string>
           <key>location</key>
           <dict>
-            <key>weight</key>
-            <integer>100</integer>
+            <key>Round</key>
+            <integer>0</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=100</string>
+          <string>round 0</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
