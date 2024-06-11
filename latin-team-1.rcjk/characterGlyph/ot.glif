@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ot" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="273" y="-12" type="curve" smooth="yes"/>
+      <point x="154" y="-12"/>
+      <point x="38" y="81"/>
+      <point x="38" y="250" type="curve" smooth="yes"/>
+      <point x="38" y="419"/>
+      <point x="154" y="512"/>
+      <point x="273" y="512" type="curve" smooth="yes"/>
+      <point x="392" y="512"/>
+      <point x="508" y="419"/>
+      <point x="508" y="250" type="curve" smooth="yes"/>
+      <point x="508" y="81"/>
+      <point x="392" y="-12"/>
+    </contour>
+    <contour>
+      <point x="273" y="478" type="curve" smooth="yes"/>
+      <point x="191" y="478"/>
+      <point x="128" y="402"/>
+      <point x="128" y="250" type="curve" smooth="yes"/>
+      <point x="128" y="98"/>
+      <point x="191" y="22"/>
+      <point x="273" y="22" type="curve" smooth="yes"/>
+      <point x="355" y="22"/>
+      <point x="418" y="98"/>
+      <point x="418" y="250" type="curve" smooth="yes"/>
+      <point x="418" y="402"/>
+      <point x="355" y="478"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
