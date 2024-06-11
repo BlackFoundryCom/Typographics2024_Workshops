@@ -8,40 +8,18 @@
                 "minValue": 100,
                 "name": "weight",
                 "tag": "wght"
+            },
+            {
+                "defaultValue": 0,
+                "label": "folding",
+                "maxValue": 100,
+                "minValue": 0,
+                "name": "folding",
+                "tag": "fold"
             }
         ]
     },
     "fontInfo": {
         "vendorID": "LDTP"
-    },
-    "sources": {
-        "91267714": {
-            "location": {
-                "weight": 400
-            },
-            "name": "Default",
-            "verticalMetrics": {
-                "ascender": {
-                    "value": 800,
-                    "zone": 16
-                },
-                "baseline": {
-                    "value": 0,
-                    "zone": -16
-                },
-                "capHeight": {
-                    "value": 750,
-                    "zone": 16
-                },
-                "descender": {
-                    "value": -250,
-                    "zone": -16
-                },
-                "xHeight": {
-                    "value": 500,
-                    "zone": 16
-                }
-            }
-        }
     }
 }
