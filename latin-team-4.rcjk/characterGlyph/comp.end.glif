@@ -23,16 +23,16 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>Serif=100</string>
+          <string>Serif=150</string>
           <key>location</key>
           <dict>
             <key>Serif</key>
-            <integer>100</integer>
+            <integer>150</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>Serif=100</string>
+          <string>Serif=150</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

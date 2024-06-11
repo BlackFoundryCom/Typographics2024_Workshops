@@ -8,19 +8,6 @@
                 "minValue": 0,
                 "name": "Serif",
                 "tag": "SERF"
-            },
-            {
-                "defaultValue": 0,
-                "label": "Weight",
-                "name": "weight",
-                "tag": "wght",
-                "values": [
-                    0,
-                    50,
-                    100,
-                    150,
-                    200
-                ]
             }
         ]
     },
