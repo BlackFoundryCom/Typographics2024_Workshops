@@ -26,6 +26,12 @@
       <point x="200" y="153"/>
     </contour>
     <contour>
+      <point x="201" y="212" type="line"/>
+      <point x="202" y="479" type="line"/>
+      <point x="122" y="479" type="line"/>
+      <point x="121" y="212" type="line"/>
+    </contour>
+    <contour>
       <point x="202" y="469" type="line"/>
       <point x="202" y="570" type="line"/>
       <point x="122" y="570" type="line"/>
@@ -57,36 +63,6 @@
             <integer>415</integer>
             <key>y</key>
             <integer>501</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>height</key>
-            <integer>100</integer>
-            <key>spikeleft</key>
-            <integer>100</integer>
-            <key>spikeright</key>
-            <integer>100</integer>
-          </dict>
-          <key>name</key>
-          <string>stem</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>-1</integer>
-            <key>scaley</key>
-            <integer>-1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>414</integer>
-            <key>y</key>
-            <integer>535</integer>
           </dict>
         </dict>
       </array>
