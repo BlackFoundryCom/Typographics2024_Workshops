@@ -12,7 +12,7 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string></string>
+          <string>folding=100</string>
           <key>location</key>
           <dict>
             <key>folding</key>
