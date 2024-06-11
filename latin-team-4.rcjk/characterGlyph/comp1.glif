@@ -162,7 +162,7 @@
               <key>coord</key>
               <dict>
                 <key>taper</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>comp0</string>
@@ -188,7 +188,7 @@
               <key>coord</key>
               <dict>
                 <key>taper</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>comp0</string>
@@ -214,7 +214,7 @@
               <key>coord</key>
               <dict>
                 <key>taper</key>
-                <integer>0</integer>
+                <integer>100</integer>
               </dict>
               <key>name</key>
               <string>comp0</string>
