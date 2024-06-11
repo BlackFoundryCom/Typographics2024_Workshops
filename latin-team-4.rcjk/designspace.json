@@ -2,18 +2,21 @@
     "axes": {
         "axes": [
             {
-                "defaultValue": 400,
-                "label": "Weight",
-                "maxValue": 900,
-                "minValue": 100,
-                "name": "weight",
-                "tag": "wght"
+                "defaultValue": 0,
+                "label": "Serif",
+                "maxValue": 100,
+                "minValue": 0,
+                "name": "Serif",
+                "tag": "SERF"
             }
         ]
     },
     "sources": {
-        "7ef7d3d0": {
-            "name": "Regular",
+        "6a21d91d": {
+            "location": {
+                "Serif": 0
+            },
+            "name": "Default",
             "verticalMetrics": {
                 "ascender": {
                     "value": 800,
@@ -32,7 +35,35 @@
                     "zone": -16
                 },
                 "xHeight": {
-                    "value": 550,
+                    "value": 500,
+                    "zone": 16
+                }
+            }
+        },
+        "b9ebbb29": {
+            "location": {
+                "Serif": 100
+            },
+            "name": "Style1",
+            "verticalMetrics": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
                     "zone": 16
                 }
             }
