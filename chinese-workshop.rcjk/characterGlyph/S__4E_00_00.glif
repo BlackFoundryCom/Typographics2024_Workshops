@@ -3,22 +3,53 @@
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="1" y="472" type="line"/>
-      <point x="851" y="472" type="line"/>
-      <point x="904" y="541" type="line"/>
-      <point x="904" y="541"/>
-      <point x="983" y="475"/>
-      <point x="1001" y="459" type="curve"/>
-      <point x="998" y="448"/>
-      <point x="990" y="443"/>
-      <point x="975" y="443" type="curve"/>
-      <point x="10" y="443" type="line"/>
+      <point x="-3" y="472" type="line"/>
+      <point x="847" y="472" type="line"/>
+      <point x="900" y="541" type="line"/>
+      <point x="900" y="541"/>
+      <point x="979" y="475"/>
+      <point x="997" y="459" type="curve"/>
+      <point x="994" y="448"/>
+      <point x="986" y="443"/>
+      <point x="971" y="443" type="curve"/>
+      <point x="6" y="443" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1000</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>200</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>width=200</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
