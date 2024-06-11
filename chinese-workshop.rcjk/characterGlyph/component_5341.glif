@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="component_5341" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="466" y="836" type="line"/>
+      <point x="466" y="-72" type="line"/>
+      <point x="489" y="-72"/>
+      <point x="517" y="-65"/>
+      <point x="534" y="-47" type="curve"/>
+      <point x="532" y="793" type="line"/>
+      <point x="556" y="797"/>
+      <point x="568" y="806"/>
+      <point x="570" y="822" type="curve"/>
+    </contour>
+    <contour>
+      <point x="46" y="473" type="line"/>
+      <point x="56" y="444" type="line"/>
+      <point x="930" y="442" type="line" smooth="yes"/>
+      <point x="946" y="442"/>
+      <point x="956" y="448"/>
+      <point x="958" y="459" type="curve"/>
+      <point x="860" y="540" type="line"/>
+      <point x="808" y="472" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
