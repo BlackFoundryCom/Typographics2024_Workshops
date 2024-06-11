@@ -3,6 +3,35 @@
   <advance width="500"/>
   <unicode hex="0059"/>
   <outline>
+    <contour>
+      <point x="340.44" y="0.009999999999990905" type="line"/>
+      <point x="322.44" y="0.009999999999990905" type="line"/>
+      <point x="322" y="216" type="line"/>
+      <point x="322" y="281" type="line"/>
+      <point x="322.44" y="323.57" type="line"/>
+      <point x="317.24" y="325.31"/>
+      <point x="281.52" y="336.90999999999997"/>
+      <point x="245.94" y="381.67" type="curve" smooth="yes"/>
+      <point x="222.44" y="411.23"/>
+      <point x="203.76" y="449.14"/>
+      <point x="190.42" y="494.34000000000003" type="curve" smooth="yes"/>
+      <point x="173.91" y="550.28"/>
+      <point x="165.54" y="617.73"/>
+      <point x="165.54" y="694.82" type="curve"/>
+      <point x="183.54" y="694.82" type="line"/>
+      <point x="183.54" y="620.14"/>
+      <point x="191.51999999999998" y="554.9000000000001"/>
+      <point x="207.26" y="500.90000000000003" type="curve" smooth="yes"/>
+      <point x="219.76" y="458.02000000000004"/>
+      <point x="237.14" y="422.15000000000003"/>
+      <point x="258.90999999999997" y="394.29" type="curve" smooth="yes"/>
+      <point x="304.09999999999997" y="336.47"/>
+      <point x="340.43999999999994" y="339.34000000000003"/>
+      <point x="340.43999999999994" y="339.34000000000003" type="curve"/>
+      <point x="340" y="329" type="line"/>
+      <point x="340" y="281" type="line"/>
+      <point x="340" y="216" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

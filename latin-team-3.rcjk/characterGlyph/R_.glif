@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R" format="2">
-  <advance width="500"/>
+  <advance width="544.0804973352772"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
@@ -262,21 +262,6 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>brettswork</string>
-          <key>location</key>
-          <dict>
-            <key>folding</key>
-            <real>99.7451445645487</real>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>brettswork</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>folding=100</string>
           <key>location</key>
           <dict>
@@ -287,51 +272,6 @@
           <true/>
           <key>sourceName</key>
           <string>folding=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>sandbox</string>
-          <key>location</key>
-          <dict>
-            <key>folding</key>
-            <real>62.0616925916161</real>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>sandbox</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>backupfor100</string>
-          <key>location</key>
-          <dict>
-            <key>folding</key>
-            <real>59.2494946831883</real>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>backupfor100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>backupfor0</string>
-          <key>location</key>
-          <dict>
-            <key>folding</key>
-            <real>39.0016697425081</real>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>backupfor0</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
