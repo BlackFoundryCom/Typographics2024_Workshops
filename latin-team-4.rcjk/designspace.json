@@ -1,1 +1,29 @@
-{}
+{
+    "sources": {
+        "7ef7d3d0": {
+            "name": "Regular",
+            "verticalMetrics": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 550,
+                    "zone": 16
+                }
+            }
+        }
+    }
+}
