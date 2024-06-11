@@ -24,23 +24,23 @@
             "verticalMetrics": {
                 "ascender": {
                     "value": 800,
-                    "zone": 16
+                    "zone": 12
                 },
                 "baseline": {
                     "value": 0,
-                    "zone": -16
+                    "zone": -12
                 },
                 "capHeight": {
                     "value": 750,
-                    "zone": 16
+                    "zone": 12
                 },
                 "descender": {
                     "value": -250,
-                    "zone": -16
+                    "zone": -12
                 },
                 "xHeight": {
                     "value": 500,
-                    "zone": 16
+                    "zone": 12
                 }
             }
         },
@@ -52,23 +52,23 @@
             "verticalMetrics": {
                 "ascender": {
                     "value": 800,
-                    "zone": 16
+                    "zone": 12
                 },
                 "baseline": {
                     "value": 0,
-                    "zone": -16
+                    "zone": -12
                 },
                 "capHeight": {
                     "value": 750,
-                    "zone": 16
+                    "zone": 12
                 },
                 "descender": {
                     "value": -250,
-                    "zone": -16
+                    "zone": -12
                 },
                 "xHeight": {
                     "value": 500,
-                    "zone": 16
+                    "zone": 12
                 }
             }
         }
