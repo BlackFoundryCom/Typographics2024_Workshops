@@ -169,6 +169,10 @@
               <dict>
                 <key>height</key>
                 <real>156.330912535523</real>
+                <key>left_curve</key>
+                <integer>4</integer>
+                <key>right_curve</key>
+                <integer>6</integer>
                 <key>width</key>
                 <real>128.54</real>
               </dict>
