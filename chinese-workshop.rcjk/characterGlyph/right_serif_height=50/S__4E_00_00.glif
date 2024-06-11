@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_4E00_00" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="-3" y="472" type="line"/>
+      <point x="847" y="472" type="line"/>
+      <point x="900" y="493" type="line"/>
+      <point x="900" y="493"/>
+      <point x="971" y="469"/>
+      <point x="997" y="459" type="curve"/>
+      <point x="994" y="448"/>
+      <point x="986" y="443"/>
+      <point x="971" y="443" type="curve"/>
+      <point x="6" y="443" type="line"/>
+    </contour>
+  </outline>
+</glyph>
