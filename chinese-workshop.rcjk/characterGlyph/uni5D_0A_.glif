@@ -162,41 +162,6 @@
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
-          <key>deepComponents</key>
-          <array>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>height</key>
-                <real>156.330912535523</real>
-                <key>left_curve</key>
-                <integer>4</integer>
-                <key>right_curve</key>
-                <integer>6</integer>
-                <key>width</key>
-                <real>128.54</real>
-              </dict>
-              <key>name</key>
-              <string>S_4E36_00</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
-                <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>126</integer>
-                <key>y</key>
-                <integer>-94</integer>
-              </dict>
-            </dict>
-          </array>
           <key>layerName</key>
           <string>width=200</string>
           <key>location</key>
