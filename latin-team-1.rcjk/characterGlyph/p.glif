@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="p" format="2">
-  <advance width="500"/>
+  <advance width="579"/>
   <unicode hex="0070"/>
   <outline>
     <contour>
-      <point x="258" y="-12" type="curve" smooth="yes"/>
-      <point x="393" y="-12"/>
-      <point x="489" y="92"/>
-      <point x="489" y="247" type="curve" smooth="yes"/>
-      <point x="489" y="402"/>
-      <point x="393" y="512"/>
-      <point x="258" y="512" type="curve" smooth="yes"/>
-      <point x="156" y="512"/>
-      <point x="43" y="402"/>
-      <point x="43" y="247" type="curve" smooth="yes"/>
-      <point x="43" y="92"/>
-      <point x="116" y="-12"/>
+      <point x="321" y="-12" type="curve" smooth="yes"/>
+      <point x="456" y="-14"/>
+      <point x="559" y="92"/>
+      <point x="559" y="247" type="curve" smooth="yes"/>
+      <point x="559" y="402"/>
+      <point x="456" y="513"/>
+      <point x="321" y="512" type="curve" smooth="yes"/>
+      <point x="191" y="511"/>
+      <point x="113" y="402"/>
+      <point x="113" y="247" type="curve" smooth="yes"/>
+      <point x="113" y="92"/>
+      <point x="175" y="-10"/>
     </contour>
     <contour>
-      <point x="258" y="18" type="curve" smooth="yes"/>
-      <point x="170" y="18"/>
-      <point x="117" y="92"/>
-      <point x="117" y="247" type="curve" smooth="yes"/>
-      <point x="117" y="402"/>
-      <point x="205" y="482"/>
-      <point x="258" y="482" type="curve" smooth="yes"/>
-      <point x="336" y="479"/>
-      <point x="399" y="402"/>
-      <point x="399" y="247" type="curve" smooth="yes"/>
-      <point x="399" y="92"/>
-      <point x="335" y="17"/>
+      <point x="321" y="18" type="curve" smooth="yes"/>
+      <point x="213" y="17"/>
+      <point x="172" y="92"/>
+      <point x="172" y="247" type="curve" smooth="yes"/>
+      <point x="172" y="402"/>
+      <point x="232" y="481"/>
+      <point x="321" y="482" type="curve" smooth="yes"/>
+      <point x="399" y="483"/>
+      <point x="469" y="402"/>
+      <point x="469" y="247" type="curve" smooth="yes"/>
+      <point x="469" y="92"/>
+      <point x="398" y="19"/>
     </contour>
   </outline>
   <lib>
@@ -42,7 +42,7 @@
             <key>ascender</key>
             <integer>0</integer>
             <key>descender</key>
-            <integer>100</integer>
+            <real>93.6919807627782</real>
             <key>height</key>
             <integer>0</integer>
             <key>spikeleft</key>
@@ -65,14 +65,163 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-191</integer>
+            <integer>-121</integer>
             <key>y</key>
             <integer>20</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>serif</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-121</integer>
+            <key>y</key>
+            <integer>-251</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>topserif</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-122</integer>
+            <key>y</key>
+            <integer>-146</integer>
           </dict>
         </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>ascender</key>
+                <integer>0</integer>
+                <key>descender</key>
+                <integer>100</integer>
+                <key>height</key>
+                <integer>0</integer>
+                <key>spikeleft</key>
+                <integer>100</integer>
+                <key>spikeright</key>
+                <integer>0</integer>
+              </dict>
+              <key>name</key>
+              <string>stem</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-122</integer>
+                <key>y</key>
+                <integer>20</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict/>
+              <key>name</key>
+              <string>serif</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-122</integer>
+                <key>y</key>
+                <integer>-251</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict/>
+              <key>name</key>
+              <string>topserif</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-122</integer>
+                <key>y</key>
+                <integer>-129</integer>
+              </dict>
+            </dict>
+          </array>
+          <key>layerName</key>
+          <string>Serif=100</string>
+          <key>location</key>
+          <dict>
+            <key>Serif</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Serif=100</string>
+          <key>status</key>
+          <integer>0</integer>
+          <key>width</key>
+          <integer>578</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
