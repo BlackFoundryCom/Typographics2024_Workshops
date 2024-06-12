@@ -180,7 +180,7 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <integer>343</integer>
+            <real>645.230459427208</real>
           </dict>
           <key>name</key>
           <string>R_53E3_left</string>
@@ -197,7 +197,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>132</integer>
+            <integer>112</integer>
             <key>y</key>
             <integer>-372</integer>
           </dict>

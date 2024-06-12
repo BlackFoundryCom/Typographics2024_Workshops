@@ -3,10 +3,10 @@
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="0" y="378" type="line"/>
+      <point x="0" y="387" type="line"/>
       <point x="0" y="358" type="line"/>
       <point x="1000" y="358" type="line"/>
-      <point x="1000" y="378" type="line"/>
+      <point x="1000" y="387" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,13 +19,13 @@
           <key>maxValue</key>
           <integer>1000</integer>
           <key>minValue</key>
-          <integer>200</integer>
+          <integer>150</integer>
           <key>name</key>
           <string>width</string>
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>20</integer>
+          <integer>29</integer>
           <key>maxValue</key>
           <integer>50</integer>
           <key>minValue</key>
@@ -40,16 +40,16 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>width=200</string>
+          <string>width=150</string>
           <key>location</key>
           <dict>
             <key>width</key>
-            <integer>200</integer>
+            <integer>150</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=200</string>
+          <string>width=150</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -65,6 +65,21 @@
           <true/>
           <key>sourceName</key>
           <string>weight=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=20</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

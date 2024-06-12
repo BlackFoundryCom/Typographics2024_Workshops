@@ -150,17 +150,17 @@
           <key>coord</key>
           <dict>
             <key>bottom_curve</key>
-            <real>71.8153341288783</real>
+            <integer>0</integer>
             <key>height</key>
-            <integer>300</integer>
+            <real>264.443019093079</real>
             <key>serif_height</key>
             <integer>0</integer>
             <key>serif_width</key>
             <integer>100</integer>
             <key>top_curve</key>
-            <integer>100</integer>
+            <integer>0</integer>
             <key>width</key>
-            <real>315.930787589499</real>
+            <real>325.917362768496</real>
           </dict>
           <key>name</key>
           <string>S_31C0_00</string>
