@@ -149,10 +149,14 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>bottom_curve</key>
+            <integer>0</integer>
             <key>height</key>
-            <integer>129</integer>
+            <real>170.90826372315</real>
+            <key>top_curve</key>
+            <real>12.2538782816229</real>
             <key>width</key>
-            <real>346.569212410501</real>
+            <real>341.672881861575</real>
           </dict>
           <key>name</key>
           <string>S_31C0_00</string>

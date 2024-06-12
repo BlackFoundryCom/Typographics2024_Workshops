@@ -68,13 +68,33 @@
         </dict>
         <dict>
           <key>defaultValue</key>
+          <integer>500</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>20</integer>
+          <key>name</key>
+          <string>topleft_serif_width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>500</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>20</integer>
+          <key>name</key>
+          <string>bottomleft_serif_height </string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
           <integer>100</integer>
           <key>minValue</key>
           <integer>0</integer>
           <key>name</key>
-          <string>topleft_serif_width</string>
+          <string>bottomleft_serif_width</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -168,6 +188,27 @@
           <true/>
           <key>sourceName</key>
           <string>topleft_serif_height=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>topleft_serif_height=100,topleft_serif_width=0,bottomleft_serif_height =182.9</string>
+          <key>layerName</key>
+          <string>topleft_serif_height=100,topleft_seri.6104b257bdd6</string>
+          <key>location</key>
+          <dict>
+            <key>bottomleft_serif_height </key>
+            <real>182.899106559163</real>
+            <key>topleft_serif_height</key>
+            <integer>100</integer>
+            <key>topleft_serif_width</key>
+            <integer>0</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>topleft_serif_height=100,topleft_serif_width=0,bottomleft_serif_height =182.9</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

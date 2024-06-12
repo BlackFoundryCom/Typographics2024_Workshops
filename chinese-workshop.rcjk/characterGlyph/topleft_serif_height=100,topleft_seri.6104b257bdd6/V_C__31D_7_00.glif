@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VC_31D7_00" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="191" y="571" type="line"/>
+      <point x="190" y="556"/>
+      <point x="178" y="547"/>
+      <point x="153" y="543" type="curve"/>
+      <point x="153" y="49" type="line"/>
+      <point x="819" y="49" type="line"/>
+      <point x="819" y="20" type="line"/>
+      <point x="161" y="20" type="line"/>
+      <point x="133" y="-7" type="line"/>
+      <point x="50" y="21" type="line"/>
+      <point x="55" y="26"/>
+      <point x="63" y="32"/>
+      <point x="74" y="38" type="curve"/>
+      <point x="78" y="41"/>
+      <point x="82" y="43"/>
+      <point x="86" y="45" type="curve"/>
+      <point x="86" y="612" type="line"/>
+    </contour>
+  </outline>
+</glyph>

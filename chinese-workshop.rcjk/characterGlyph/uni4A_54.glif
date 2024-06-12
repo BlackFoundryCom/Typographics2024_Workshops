@@ -193,15 +193,17 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <real>855.437052505967</real>
+            <real>506.503579952267</real>
             <key>heng_width</key>
-            <integer>900</integer>
+            <real>839.066229116945</real>
+            <key>pie_curve</key>
+            <real>27.6252983293556</real>
             <key>pie_width</key>
             <integer>900</integer>
             <key>weight</key>
-            <integer>78</integer>
+            <real>66.0827863961814</real>
             <key>width</key>
-            <integer>819</integer>
+            <real>570.1223150358</real>
           </dict>
           <key>name</key>
           <string>S_31C7_00</string>
@@ -218,9 +220,39 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>-25</integer>
             <key>y</key>
-            <integer>-46</integer>
+            <integer>-393</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>B_length</key>
+            <real>-90.9125355225766</real>
+            <key>T_length</key>
+            <integer>-200</integer>
+            <key>height</key>
+            <real>357.934954215346</real>
+          </dict>
+          <key>name</key>
+          <string>S_31CD_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>190</integer>
+            <key>y</key>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>
