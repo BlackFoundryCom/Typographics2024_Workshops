@@ -3,23 +3,23 @@
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="219" y="600" type="line"/>
-      <point x="218" y="585"/>
-      <point x="206" y="576"/>
-      <point x="181" y="572" type="curve"/>
-      <point x="181" y="49" type="line"/>
-      <point x="847" y="49" type="line"/>
-      <point x="847" y="20" type="line"/>
-      <point x="189" y="20" type="line"/>
-      <point x="161" y="-17" type="line"/>
-      <point x="78" y="33" type="line"/>
-      <point x="83" y="38"/>
-      <point x="91" y="44"/>
-      <point x="102" y="50" type="curve"/>
-      <point x="106" y="53"/>
-      <point x="110" y="55"/>
-      <point x="114" y="57" type="curve"/>
-      <point x="114" y="612" type="line"/>
+      <point x="191" y="600" type="line"/>
+      <point x="190" y="585"/>
+      <point x="178" y="576"/>
+      <point x="153" y="572" type="curve"/>
+      <point x="153" y="49" type="line"/>
+      <point x="819" y="49" type="line"/>
+      <point x="819" y="20" type="line"/>
+      <point x="161" y="20" type="line"/>
+      <point x="133" y="-17" type="line"/>
+      <point x="50" y="33" type="line"/>
+      <point x="55" y="38"/>
+      <point x="63" y="44"/>
+      <point x="74" y="50" type="curve"/>
+      <point x="78" y="53"/>
+      <point x="82" y="55"/>
+      <point x="86" y="57" type="curve"/>
+      <point x="86" y="612" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,11 +40,31 @@
           <key>defaultValue</key>
           <integer>629</integer>
           <key>maxValue</key>
-          <integer>1000</integer>
+          <integer>827</integer>
           <key>minValue</key>
-          <integer>20</integer>
+          <integer>40</integer>
           <key>name</key>
           <string>height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>topleft_serif_height</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -78,6 +98,66 @@
           <true/>
           <key>sourceName</key>
           <string>width=1000</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>40</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height=827</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>827</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=827</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=100</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>topleft_serif_height=80</string>
+          <key>location</key>
+          <dict>
+            <key>topleft_serif_height</key>
+            <integer>80</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>topleft_serif_height=80</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

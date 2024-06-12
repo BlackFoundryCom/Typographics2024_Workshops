@@ -96,13 +96,15 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <real>559.88931857581</real>
+            <real>562.385651420189</real>
+            <key>hook_height</key>
+            <real>118.994532604347</real>
             <key>hook_width</key>
-            <real>257.367649019869</real>
+            <real>252.286971596213</real>
             <key>serif_height</key>
-            <real>9.14588611814909</real>
+            <integer>10</integer>
             <key>serif_width</key>
-            <real>35.6660888118416</real>
+            <integer>40</integer>
           </dict>
           <key>name</key>
           <string>S_4E85_00</string>
@@ -119,9 +121,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>171</integer>
+            <integer>166</integer>
             <key>y</key>
-            <integer>-9</integer>
+            <integer>-8</integer>
           </dict>
         </dict>
       </array>

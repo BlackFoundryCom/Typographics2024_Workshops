@@ -20,13 +20,13 @@
       <point x="188" y="51" type="curve"/>
       <point x="233" y="-31" type="line"/>
       <point x="258" y="-23"/>
-      <point x="269" y="-16"/>
-      <point x="284" y="-2" type="curve"/>
-      <point x="326" y="18"/>
+      <point x="273" y="-11"/>
+      <point x="284" y="8" type="curve"/>
+      <point x="326" y="28"/>
       <point x="434" y="81"/>
       <point x="516" y="128" type="curve"/>
       <point x="507" y="141" type="line"/>
-      <point x="484" y="224"/>
+      <point x="404" y="122"/>
       <point x="317" y="102"/>
     </contour>
   </outline>

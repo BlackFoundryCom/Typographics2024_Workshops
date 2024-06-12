@@ -120,8 +120,14 @@
           <dict>
             <key>bottom_ti_angle</key>
             <real>7.7804295942720785</real>
+            <key>bottom_ti_height</key>
+            <real>-41.31861575179</real>
+            <key>bottom_ti_width</key>
+            <real>-30.2804295942721</real>
             <key>height</key>
             <real>634.300417661098</real>
+            <key>top_heng_left_width</key>
+            <real>25.4325775656325</real>
             <key>weight</key>
             <integer>56</integer>
             <key>width</key>

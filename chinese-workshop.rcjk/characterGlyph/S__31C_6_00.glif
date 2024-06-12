@@ -75,6 +75,26 @@
           <key>name</key>
           <string>topright_serif_height</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>119</integer>
+          <key>maxValue</key>
+          <integer>119</integer>
+          <key>minValue</key>
+          <integer>75</integer>
+          <key>name</key>
+          <string>topright_serif_width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>235</integer>
+          <key>maxValue</key>
+          <integer>235</integer>
+          <key>minValue</key>
+          <integer>135</integer>
+          <key>name</key>
+          <string>hook_width</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -152,6 +172,36 @@
           <true/>
           <key>sourceName</key>
           <string>topright_serif_height=40</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>topright_serif_width=75</string>
+          <key>location</key>
+          <dict>
+            <key>topright_serif_width</key>
+            <integer>75</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>topright_serif_width=75</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>hook_width=135</string>
+          <key>location</key>
+          <dict>
+            <key>hook_width</key>
+            <integer>135</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>hook_width=135</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

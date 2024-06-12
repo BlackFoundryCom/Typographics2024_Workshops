@@ -20,9 +20,9 @@
       <point x="188" y="51" type="curve"/>
       <point x="233" y="-31" type="line"/>
       <point x="258" y="-23"/>
-      <point x="269" y="-16"/>
-      <point x="284" y="-2" type="curve"/>
-      <point x="357" y="60"/>
+      <point x="269" y="-6"/>
+      <point x="284" y="8" type="curve"/>
+      <point x="357" y="70"/>
       <point x="443" y="148"/>
       <point x="516" y="228" type="curve"/>
       <point x="507" y="241" type="line"/>
@@ -93,6 +93,16 @@
           <integer>-100</integer>
           <key>name</key>
           <string>bottom_ti_height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>top_heng_left_width</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -226,6 +236,104 @@
           <true/>
           <key>sourceName</key>
           <string>bottom_ti_height=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>bottom_ti_width=-100,bottom_ti_height=-100</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_height</key>
+            <integer>-100</integer>
+            <key>bottom_ti_width</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bottom_ti_width=-100,bottom_ti_height=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>bottom_ti_width=100,bottom_ti_height=100</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_height</key>
+            <integer>100</integer>
+            <key>bottom_ti_width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bottom_ti_width=100,bottom_ti_height=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>bottom_ti_width=100,bottom_ti_height=-100</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_height</key>
+            <integer>-100</integer>
+            <key>bottom_ti_width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bottom_ti_width=100,bottom_ti_height=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>bottom_ti_width=-100,bottom_ti_height=100</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_height</key>
+            <integer>100</integer>
+            <key>bottom_ti_width</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bottom_ti_width=-100,bottom_ti_height=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>top_heng_left_width=-50</string>
+          <key>location</key>
+          <dict>
+            <key>top_heng_left_width</key>
+            <integer>-50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>top_heng_left_width=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>top_heng_left_width=50</string>
+          <key>location</key>
+          <dict>
+            <key>top_heng_left_width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>top_heng_left_width=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

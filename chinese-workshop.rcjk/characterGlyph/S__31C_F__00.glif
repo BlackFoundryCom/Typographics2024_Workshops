@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="S_31CF_00" format="2">
-  <advance width="500"/>
+  <advance width="1000"/>
   <outline>
     <contour>
       <point x="214" y="735" type="line"/>
       <point x="305" y="338"/>
-      <point x="572.9801340670713" y="89.29377987962081"/>
+      <point x="573" y="89"/>
       <point x="966" y="-12" type="curve"/>
       <point x="963" y="-23" type="line"/>
       <point x="927" y="-23"/>
       <point x="899" y="-41"/>
       <point x="883" y="-75" type="curve"/>
       <point x="513" y="44"/>
-      <point x="279.36094736478225" y="301.1952631760888"/>
+      <point x="279" y="301"/>
       <point x="195" y="723" type="curve"/>
     </contour>
   </outline>
@@ -50,6 +50,16 @@
           <key>name</key>
           <string>end_width</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>50</integer>
+          <key>maxValue</key>
+          <integer>50</integer>
+          <key>minValue</key>
+          <integer>-50</integer>
+          <key>name</key>
+          <string>end_height</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -59,15 +69,16 @@
           <key>layerName</key>
           <string>width=191</string>
           <key>location</key>
-          <dict/>
+          <dict>
+            <key>width</key>
+            <integer>191</integer>
+          </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>width=191</string>
           <key>status</key>
           <integer>0</integer>
-          <key>width</key>
-          <integer>1000</integer>
         </dict>
         <dict>
           <key>layerName</key>
@@ -85,8 +96,6 @@
           <string>height=487</string>
           <key>status</key>
           <integer>0</integer>
-          <key>width</key>
-          <integer>1000</integer>
         </dict>
         <dict>
           <key>layerName</key>
@@ -102,14 +111,14 @@
           <string>height=810</string>
           <key>status</key>
           <integer>0</integer>
-          <key>width</key>
-          <integer>1000</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=191,height=487,end_width=-50</string>
+          <string>width=191,height=487,end_width=-50,end_height=50</string>
           <key>location</key>
           <dict>
+            <key>end_height</key>
+            <integer>50</integer>
             <key>end_width</key>
             <integer>-50</integer>
             <key>height</key>
@@ -120,28 +129,26 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=191,height=487,end_width=-50</string>
+          <string>width=191,height=487,end_width=-50,end_height=50</string>
           <key>status</key>
           <integer>0</integer>
-          <key>width</key>
-          <integer>1000</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>width=771</string>
+          <string>end_width=-50,end_height=50</string>
           <key>location</key>
           <dict>
-            <key>width</key>
-            <integer>771</integer>
+            <key>end_height</key>
+            <integer>50</integer>
+            <key>end_width</key>
+            <integer>-50</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=771</string>
+          <string>end_width=-50,end_height=50</string>
           <key>status</key>
           <integer>0</integer>
-          <key>width</key>
-          <integer>1000</integer>
         </dict>
       </array>
     </dict>

@@ -50,13 +50,13 @@
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>0</integer>
+          <integer>900</integer>
           <key>maxValue</key>
-          <integer>50</integer>
+          <integer>900</integer>
           <key>minValue</key>
-          <integer>-50</integer>
+          <integer>400</integer>
           <key>name</key>
-          <string>right_pie_width</string>
+          <string>pie_width</string>
         </dict>
         <dict>
           <key>defaultValue</key>
@@ -76,7 +76,7 @@
           <key>minValue</key>
           <integer>400</integer>
           <key>name</key>
-          <string>top_heng_left_width</string>
+          <string>heng_width</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -157,6 +157,21 @@
           <true/>
           <key>sourceName</key>
           <string>top_heng_left_width=400</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>right_pie_width=400</string>
+          <key>location</key>
+          <dict>
+            <key>right_pie_width</key>
+            <integer>400</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>right_pie_width=400</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

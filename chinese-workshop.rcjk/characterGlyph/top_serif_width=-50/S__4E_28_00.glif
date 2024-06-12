@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_4E28_00" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="464" y="880" type="line"/>
+      <point x="520" y="869" type="line"/>
+      <point x="520" y="855"/>
+      <point x="524" y="846"/>
+      <point x="532" y="839" type="curve"/>
+      <point x="532" y="-93" type="line" smooth="yes"/>
+      <point x="532" y="-103"/>
+      <point x="501" y="-120"/>
+      <point x="477" y="-120" type="curve"/>
+      <point x="464" y="-120" type="line"/>
+    </contour>
+  </outline>
+</glyph>
