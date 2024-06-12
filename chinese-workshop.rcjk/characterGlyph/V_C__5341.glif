@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni5341" format="2">
+<glyph name="VC_5341" format="2">
   <advance width="1000"/>
-  <unicode hex="5341"/>
   <outline>
     <contour>
       <point x="464" y="834" type="line"/>
@@ -32,6 +31,19 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>914</integer>
+          <key>maxValue</key>
+          <integer>914</integer>
+          <key>minValue</key>
+          <integer>500</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
     </dict>
