@@ -72,6 +72,16 @@
           <key>name</key>
           <string>top_serif_height</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>433</integer>
+          <key>maxValue</key>
+          <integer>433</integer>
+          <key>minValue</key>
+          <integer>133</integer>
+          <key>name</key>
+          <string>top_shu_height</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -164,6 +174,21 @@
           <true/>
           <key>sourceName</key>
           <string>top_serif_height=28</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>top_shu_height=133</string>
+          <key>location</key>
+          <dict>
+            <key>top_shu_height</key>
+            <integer>133</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>top_shu_height=133</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
