@@ -3,6 +3,13 @@
   <advance width="500"/>
   <outline>
     <contour>
+      <point x="277" y="99" type="curve"/>
+      <point x="287" y="87" type="line"/>
+      <point x="287" y="522" type="line"/>
+      <point x="305" y="526"/>
+      <point x="315" y="532"/>
+      <point x="322" y="538" type="curve"/>
+      <point x="266" y="601" type="line"/>
       <point x="239" y="566" type="line"/>
       <point x="16" y="566" type="line"/>
       <point x="25" y="537" type="line"/>
@@ -20,13 +27,7 @@
       <point x="516" y="228" type="curve"/>
       <point x="507" y="241" type="line"/>
       <point x="484" y="224"/>
-      <point x="356" y="148"/>
-      <point x="287" y="107" type="curve"/>
-      <point x="287" y="522" type="line"/>
-      <point x="305" y="526"/>
-      <point x="315" y="532"/>
-      <point x="322" y="538" type="curve"/>
-      <point x="266" y="601" type="line"/>
+      <point x="346" y="140"/>
     </contour>
   </outline>
   <lib>
@@ -42,6 +43,36 @@
           <integer>300</integer>
           <key>name</key>
           <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>600</integer>
+          <key>maxValue</key>
+          <integer>650</integer>
+          <key>minValue</key>
+          <integer>600</integer>
+          <key>name</key>
+          <string>height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>20</integer>
+          <key>minValue</key>
+          <integer>-20</integer>
+          <key>name</key>
+          <string>bottom_ti_angle</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>68</integer>
+          <key>minValue</key>
+          <integer>56</integer>
+          <key>name</key>
+          <string>weight</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -60,6 +91,61 @@
           <true/>
           <key>sourceName</key>
           <string>width=300</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=300,height=650</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>650</integer>
+            <key>width</key>
+            <integer>300</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=300,height=650</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=300,height=624,bottom_ti_angle=-20</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_angle</key>
+            <integer>-20</integer>
+            <key>height</key>
+            <real>624.021657953697</real>
+            <key>width</key>
+            <integer>300</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=300,height=624,bottom_ti_angle=-20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=300,height=624,bottom_ti_angle=20</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_angle</key>
+            <integer>20</integer>
+            <key>height</key>
+            <real>624.021657953697</real>
+            <key>width</key>
+            <integer>300</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=300,height=624,bottom_ti_angle=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
