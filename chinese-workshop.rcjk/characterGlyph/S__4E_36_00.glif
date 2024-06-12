@@ -4,24 +4,177 @@
   <outline>
     <contour>
       <point x="452" y="556" type="line"/>
-      <point x="679" y="493"/>
-      <point x="825" y="393"/>
-      <point x="907" y="308" type="curve"/>
-      <point x="944" y="267"/>
-      <point x="953" y="234"/>
-      <point x="945" y="214" type="curve"/>
-      <point x="937" y="193"/>
-      <point x="913" y="190"/>
-      <point x="888" y="203" type="curve"/>
-      <point x="815" y="299"/>
-      <point x="648" y="451"/>
+      <point x="719" y="469"/>
+      <point x="945" y="337"/>
+      <point x="945" y="239" type="curve" smooth="yes"/>
+      <point x="945" y="221"/>
+      <point x="932" y="206"/>
+      <point x="913" y="206" type="curve" smooth="yes"/>
+      <point x="904" y="206"/>
+      <point x="895" y="209"/>
+      <point x="885" y="214" type="curve"/>
+      <point x="818" y="302"/>
+      <point x="654" y="447"/>
       <point x="445" y="540" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>500</integer>
+          <key>maxValue</key>
+          <integer>500</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>350</integer>
+          <key>maxValue</key>
+          <integer>350</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>left_curve</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>right_curve</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>width=100</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height=100</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=100,height=100</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>100</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=100,height=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>left_curve=-100</string>
+          <key>location</key>
+          <dict>
+            <key>left_curve</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>left_curve=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>left_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>left_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>left_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>right_curve=-100</string>
+          <key>location</key>
+          <dict>
+            <key>right_curve</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>right_curve=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>right_curve=100</string>
+          <key>location</key>
+          <dict>
+            <key>right_curve</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>right_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
