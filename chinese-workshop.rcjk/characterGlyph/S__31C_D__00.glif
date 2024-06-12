@@ -38,26 +38,6 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>0</integer>
-          <key>minValue</key>
-          <integer>-100</integer>
-          <key>name</key>
-          <string>B_length</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>0</integer>
-          <key>minValue</key>
-          <integer>-200</integer>
-          <key>name</key>
-          <string>T_length</string>
-        </dict>
-        <dict>
-          <key>defaultValue</key>
           <integer>600</integer>
           <key>maxValue</key>
           <integer>600</integer>
@@ -70,47 +50,37 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>bottom_length</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-200</integer>
+          <key>name</key>
+          <string>top_length</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
           <integer>100</integer>
           <key>minValue</key>
           <integer>0</integer>
           <key>name</key>
-          <string>T_hide</string>
+          <string>top_hide</string>
         </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
-        <dict>
-          <key>layerName</key>
-          <string>B_length=-100</string>
-          <key>location</key>
-          <dict>
-            <key>B_length</key>
-            <integer>-100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>B_length=-100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>T_length=-200</string>
-          <key>location</key>
-          <dict>
-            <key>T_length</key>
-            <integer>-200</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>T_length=-200</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
         <dict>
           <key>layerName</key>
           <string>height=300</string>
@@ -128,33 +98,63 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>T_hide=100</string>
+          <string>bottom_length=-100</string>
           <key>location</key>
           <dict>
-            <key>T_hide</key>
-            <integer>100</integer>
+            <key>bottom_length</key>
+            <integer>-100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>T_hide=100</string>
+          <string>bottom_length=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>T_length=-200,T_hide=100</string>
+          <string>top_length=-200</string>
           <key>location</key>
           <dict>
-            <key>T_hide</key>
-            <integer>100</integer>
-            <key>T_length</key>
+            <key>top_length</key>
             <integer>-200</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>T_length=-200,T_hide=100</string>
+          <string>top_length=-200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>top_hide=100</string>
+          <key>location</key>
+          <dict>
+            <key>top_hide</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>top_hide=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>top_length=-200,top_hide=100</string>
+          <key>location</key>
+          <dict>
+            <key>top_hide</key>
+            <integer>100</integer>
+            <key>top_length</key>
+            <integer>-200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>top_length=-200,top_hide=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

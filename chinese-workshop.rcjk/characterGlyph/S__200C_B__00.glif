@@ -41,7 +41,7 @@
           <key>minValue</key>
           <integer>350</integer>
           <key>name</key>
-          <string>L_height</string>
+          <string>left_height</string>
         </dict>
         <dict>
           <key>defaultValue</key>
@@ -51,7 +51,7 @@
           <key>minValue</key>
           <integer>230</integer>
           <key>name</key>
-          <string>L_width</string>
+          <string>left_width</string>
         </dict>
         <dict>
           <key>defaultValue</key>
@@ -61,7 +61,7 @@
           <key>minValue</key>
           <integer>80</integer>
           <key>name</key>
-          <string>B_height</string>
+          <string>bottom_height</string>
         </dict>
         <dict>
           <key>defaultValue</key>
@@ -71,7 +71,7 @@
           <key>minValue</key>
           <integer>200</integer>
           <key>name</key>
-          <string>B_width</string>
+          <string>bottom_width</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -80,78 +80,61 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>L_width=230</string>
+          <string>left_height=350</string>
           <key>location</key>
           <dict>
-            <key>L_width</key>
-            <integer>230</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>L_width=230</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>L_height=350</string>
-          <key>location</key>
-          <dict>
-            <key>L_height</key>
+            <key>left_height</key>
             <integer>350</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>L_height=350</string>
+          <string>left_height=350</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>L_height=350,L_width=230</string>
+          <string>left_width=230</string>
           <key>location</key>
           <dict>
-            <key>L_height</key>
-            <integer>350</integer>
-            <key>L_width</key>
+            <key>left_width</key>
             <integer>230</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>L_height=350,L_width=230</string>
+          <string>left_width=230</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>B_height=80</string>
+          <string>bottom_height=80</string>
           <key>location</key>
           <dict>
-            <key>B_height</key>
+            <key>bottom_height</key>
             <integer>80</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>B_height=80</string>
+          <string>bottom_height=80</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>B_width=200</string>
+          <string>bottom_width=200</string>
           <key>location</key>
           <dict>
-            <key>B_width</key>
+            <key>bottom_width</key>
             <integer>200</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>B_width=200</string>
+          <string>bottom_width=200</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

@@ -37,7 +37,37 @@
           <key>minValue</key>
           <integer>450</integer>
           <key>name</key>
-          <string>V_height</string>
+          <string>left_height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>360</integer>
+          <key>maxValue</key>
+          <integer>360</integer>
+          <key>minValue</key>
+          <integer>250</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>0</integer>
+          <key>minValue</key>
+          <integer>-10</integer>
+          <key>name</key>
+          <string>left_weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>144</integer>
+          <key>maxValue</key>
+          <integer>144</integer>
+          <key>minValue</key>
+          <integer>124</integer>
+          <key>name</key>
+          <string>bottom_height</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -46,16 +76,61 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>V_height=450</string>
+          <string>left_height=450</string>
           <key>location</key>
           <dict>
-            <key>V_height</key>
+            <key>left_height</key>
             <integer>450</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>V_height=450</string>
+          <string>left_height=450</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=250</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=250</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>left_weight=-10</string>
+          <key>location</key>
+          <dict>
+            <key>left_weight</key>
+            <integer>-10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>left_weight=-10</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>bottom_height=124</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_height</key>
+            <integer>124</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bottom_height=124</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
