@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <integer>850</integer>
+            <real>462.258392675483</real>
             <key>left_curve</key>
             <integer>0</integer>
             <key>right_curve</key>
@@ -26,7 +26,7 @@
             <key>top_weight</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>850</integer>
+            <real>345.28132091713</real>
           </dict>
           <key>name</key>
           <string>S_31D2_00</string>
@@ -43,20 +43,20 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-198</integer>
+            <integer>-496</integer>
             <key>y</key>
-            <integer>191</integer>
+            <integer>77</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>bottom_gou_width</key>
-            <integer>0</integer>
+            <real>28.7683031869078</real>
             <key>height</key>
-            <integer>900</integer>
+            <real>811.007121057986</real>
             <key>width</key>
-            <integer>1000</integer>
+            <real>686.225954636807</real>
           </dict>
           <key>name</key>
           <string>S_31C6_01</string>
@@ -73,9 +73,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>-50</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>37</integer>
           </dict>
         </dict>
         <dict>
@@ -84,11 +84,11 @@
             <key>bottom_curve</key>
             <integer>100</integer>
             <key>height</key>
-            <integer>1000</integer>
+            <real>451.28726817434904</real>
             <key>top_angle</key>
-            <integer>0</integer>
+            <real>8.53744424446356</real>
             <key>top_serif_height</key>
-            <integer>0</integer>
+            <real>-8.66656232882072</real>
             <key>top_serif_width</key>
             <integer>0</integer>
             <key>weight</key>
@@ -109,9 +109,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>-228</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-393</integer>
           </dict>
         </dict>
         <dict>
@@ -122,7 +122,7 @@
             <key>bottom_curve</key>
             <integer>100</integer>
             <key>height</key>
-            <integer>1000</integer>
+            <real>428.31207449722206</real>
             <key>topright_serif_height</key>
             <integer>0</integer>
             <key>topright_serif_width</key>
@@ -130,7 +130,7 @@
             <key>weight</key>
             <integer>76</integer>
             <key>width</key>
-            <integer>1000</integer>
+            <real>406.77674309413896</real>
           </dict>
           <key>name</key>
           <string>S_31D5_00</string>
@@ -147,9 +147,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>-332</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-366</integer>
           </dict>
         </dict>
         <dict>
@@ -158,7 +158,7 @@
             <key>weight</key>
             <integer>20</integer>
             <key>width</key>
-            <integer>1000</integer>
+            <real>326.833085530949</real>
           </dict>
           <key>name</key>
           <string>S_4E00_01</string>
@@ -175,9 +175,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>267</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-228</integer>
           </dict>
         </dict>
       </array>

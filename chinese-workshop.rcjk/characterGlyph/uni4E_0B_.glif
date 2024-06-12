@@ -35,7 +35,75 @@
             <key>x</key>
             <integer>51</integer>
             <key>y</key>
-            <integer>248</integer>
+            <integer>268</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_curve</key>
+            <integer>100</integer>
+            <key>height</key>
+            <integer>819</integer>
+            <key>top_angle</key>
+            <integer>-11</integer>
+            <key>top_serif_height</key>
+            <integer>0</integer>
+            <key>top_serif_width</key>
+            <integer>0</integer>
+            <key>weight</key>
+            <integer>68</integer>
+          </dict>
+          <key>name</key>
+          <string>S_4E28_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-17</integer>
+            <key>y</key>
+            <integer>-140</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <real>279.541666666667</real>
+            <key>left_curve</key>
+            <integer>0</integer>
+            <key>right_curve</key>
+            <integer>0</integer>
+            <key>width</key>
+            <real>447.733333333333</real>
+          </dict>
+          <key>name</key>
+          <string>S_4E36_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>52</integer>
+            <key>y</key>
+            <integer>-30</integer>
           </dict>
         </dict>
       </array>

@@ -12,9 +12,9 @@
           <key>coord</key>
           <dict>
             <key>bottom_curve</key>
-            <integer>100</integer>
+            <real>51.38723150358</real>
             <key>height</key>
-            <real>845.883054892601</real>
+            <real>837.410501193317</real>
             <key>top_angle</key>
             <integer>0</integer>
             <key>top_serif_height</key>
@@ -48,9 +48,9 @@
           <key>coord</key>
           <dict>
             <key>bottom_curve</key>
-            <integer>100</integer>
+            <real>46.8899164677804</real>
             <key>height</key>
-            <real>626.431980906921</real>
+            <real>620.405727923628</real>
             <key>top_angle</key>
             <integer>0</integer>
             <key>top_serif_height</key>
@@ -137,7 +137,7 @@
             <key>x</key>
             <integer>39</integer>
             <key>y</key>
-            <integer>-454</integer>
+            <integer>-452</integer>
           </dict>
         </dict>
       </array>
