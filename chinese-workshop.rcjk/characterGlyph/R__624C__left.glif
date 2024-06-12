@@ -15,7 +15,7 @@
             <key>serif_with</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>1000</integer>
+            <real>798.329355608592</real>
           </dict>
           <key>name</key>
           <string>S_4E00_00</string>
@@ -34,7 +34,77 @@
             <key>x</key>
             <integer>0</integer>
             <key>y</key>
+            <integer>70</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <integer>910</integer>
+            <key>hook_height</key>
+            <integer>120</integer>
+            <key>hook_width</key>
+            <integer>300</integer>
+            <key>serif_height</key>
+            <integer>10</integer>
+            <key>serif_width</key>
+            <integer>40</integer>
+          </dict>
+          <key>name</key>
+          <string>S_4E85_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
             <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-170</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_curve</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>129</integer>
+            <key>serif_height</key>
+            <integer>100</integer>
+            <key>serif_width</key>
+            <integer>100</integer>
+            <key>top_curve</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>900</integer>
+          </dict>
+          <key>name</key>
+          <string>S_31C0_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-50</integer>
+            <key>y</key>
+            <integer>260</integer>
           </dict>
         </dict>
       </array>

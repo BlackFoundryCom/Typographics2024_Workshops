@@ -11,6 +11,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>height</key>
+            <real>690.857073289506</real>
             <key>width</key>
             <real>321.021475529584</real>
           </dict>

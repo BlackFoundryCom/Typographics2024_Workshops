@@ -74,7 +74,7 @@
             <key>bottom_curve</key>
             <integer>100</integer>
             <key>height</key>
-            <integer>1000</integer>
+            <real>947.753064003631</real>
             <key>top_angle</key>
             <integer>0</integer>
             <key>top_serif_height</key>
@@ -112,9 +112,9 @@
             <key>end_width</key>
             <integer>50</integer>
             <key>height</key>
-            <integer>487</integer>
+            <real>425.705855651384</real>
             <key>width</key>
-            <real>459.674534725375</real>
+            <real>484.850431230141</real>
           </dict>
           <key>name</key>
           <string>S_31CF_00</string>
@@ -131,16 +131,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>333</integer>
+            <integer>318</integer>
             <key>y</key>
-            <integer>-338</integer>
+            <integer>-334</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>height</key>
-            <real>488.626305038584</real>
+            <real>512.091466182478</real>
             <key>left_curve</key>
             <integer>0</integer>
             <key>right_curve</key>
@@ -152,9 +152,9 @@
             <key>top_angle</key>
             <integer>0</integer>
             <key>top_weight</key>
-            <integer>0</integer>
+            <real>-8.13946890603723</real>
             <key>width</key>
-            <real>477.956196096232</real>
+            <real>505.481162051748</real>
           </dict>
           <key>name</key>
           <string>S_31D2_00</string>
@@ -171,9 +171,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-360</integer>
+            <integer>-341</integer>
             <key>y</key>
-            <integer>-363</integer>
+            <integer>-367</integer>
           </dict>
         </dict>
       </array>

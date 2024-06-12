@@ -45,6 +45,10 @@
             <real>89.3743758511121</real>
             <key>right_serif_width</key>
             <real>143.07194734453</real>
+            <key>serif_height</key>
+            <real>-14.1738538356786</real>
+            <key>serif_with</key>
+            <real>-12.8915115751248</real>
             <key>width</key>
             <real>713.047548797095</real>
           </dict>
