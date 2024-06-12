@@ -9,9 +9,9 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>343</integer>
+          <integer>800</integer>
           <key>maxValue</key>
-          <integer>343</integer>
+          <integer>800</integer>
           <key>minValue</key>
           <integer>250</integer>
           <key>name</key>
@@ -28,7 +28,7 @@
             <key>height</key>
             <integer>660</integer>
             <key>top_angle</key>
-            <integer>0</integer>
+            <real>14.6032219570406</real>
             <key>top_serif_height</key>
             <integer>0</integer>
             <key>top_serif_width</key>
@@ -53,7 +53,7 @@
             <key>x</key>
             <integer>-381</integer>
             <key>y</key>
-            <integer>-132</integer>
+            <integer>-119</integer>
           </dict>
         </dict>
         <dict>
@@ -68,7 +68,7 @@
             <key>topright_serif_width</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>331</integer>
+            <real>766.41</real>
           </dict>
           <key>name</key>
           <string>S_31D5_00</string>
@@ -85,7 +85,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-575</integer>
+            <integer>-118</integer>
             <key>y</key>
             <integer>-101</integer>
           </dict>
@@ -96,7 +96,7 @@
             <key>weight</key>
             <integer>30</integer>
             <key>width</key>
-            <integer>240</integer>
+            <real>689.52</real>
           </dict>
           <key>name</key>
           <string>S_4E00_01</string>
@@ -113,7 +113,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>101</integer>
+            <integer>114</integer>
             <key>y</key>
             <integer>-166</integer>
           </dict>
