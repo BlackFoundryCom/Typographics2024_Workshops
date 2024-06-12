@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_4E3F_00" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="150" y="870" type="line"/>
+      <point x="149" y="857"/>
+      <point x="140" y="846"/>
+      <point x="115" y="842" type="curve"/>
+      <point x="115" y="447" type="line" smooth="yes"/>
+      <point x="115" y="139"/>
+      <point x="53" y="-60"/>
+      <point x="11" y="-120" type="curve"/>
+      <point x="0" y="-106" type="line"/>
+      <point x="32" y="3"/>
+      <point x="49" y="138"/>
+      <point x="49" y="447" type="curve"/>
+      <point x="49" y="880" type="line"/>
+    </contour>
+  </outline>
+</glyph>

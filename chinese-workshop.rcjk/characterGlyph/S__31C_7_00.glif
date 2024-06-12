@@ -9,8 +9,8 @@
       <point x="101" y="743" type="line"/>
     </contour>
     <contour>
-      <point x="443" y="88"/>
-      <point x="733" y="403"/>
+      <point x="453" y="88"/>
+      <point x="733" y="393"/>
       <point x="826" y="773" type="curve"/>
       <point x="816" y="773" type="line"/>
       <point x="862" y="819" type="line"/>
@@ -18,8 +18,8 @@
       <point x="933" y="734"/>
       <point x="921" y="732"/>
       <point x="897" y="729" type="curve"/>
-      <point x="788" y="366"/>
-      <point x="511" y="59"/>
+      <point x="788" y="356"/>
+      <point x="521" y="59"/>
       <point x="51" y="-81" type="curve"/>
       <point x="41" y="-65" type="line"/>
     </contour>
@@ -147,31 +147,31 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>top_heng_left_width=400</string>
+          <string>heng_width=400</string>
           <key>location</key>
           <dict>
-            <key>top_heng_left_width</key>
+            <key>heng_width</key>
             <integer>400</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>top_heng_left_width=400</string>
+          <string>heng_width=400</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>right_pie_width=400</string>
+          <string>pie_width=400</string>
           <key>location</key>
           <dict>
-            <key>right_pie_width</key>
+            <key>pie_width</key>
             <integer>400</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>right_pie_width=400</string>
+          <string>pie_width=400</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

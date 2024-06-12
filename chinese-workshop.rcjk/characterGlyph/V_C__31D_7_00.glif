@@ -66,6 +66,16 @@
           <key>name</key>
           <string>topleft_serif_height</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>topleft_serif_width</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -148,16 +158,16 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>topleft_serif_height=80</string>
+          <string>topleft_serif_height=100</string>
           <key>location</key>
           <dict>
             <key>topleft_serif_height</key>
-            <integer>80</integer>
+            <integer>100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>topleft_serif_height=80</string>
+          <string>topleft_serif_height=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
