@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="R_65E5_left" format="2">
+<glyph name="R_6708_right" format="2">
   <advance width="1000"/>
   <outline>
   </outline>
@@ -9,11 +9,11 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>371</integer>
+          <integer>100</integer>
           <key>maxValue</key>
-          <integer>371</integer>
+          <integer>100</integer>
           <key>minValue</key>
-          <integer>271</integer>
+          <integer>30</integer>
           <key>name</key>
           <string>width</string>
         </dict>
@@ -23,21 +23,21 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>bottom_curve</key>
-            <integer>100</integer>
             <key>height</key>
-            <real>713.84</real>
-            <key>top_angle</key>
-            <real>1.22315035799522</real>
+            <real>862.664548343168</real>
             <key>top_serif_height</key>
-            <real>4.146778042959433</real>
+            <integer>38</integer>
             <key>top_serif_width</key>
-            <real>-38.0742840095465</real>
+            <integer>101</integer>
+            <key>top_shu_height</key>
+            <integer>433</integer>
             <key>weight</key>
-            <integer>68</integer>
+            <integer>66</integer>
+            <key>width</key>
+            <real>268.576486609169</real>
           </dict>
           <key>name</key>
-          <string>S_4E28_00</string>
+          <string>S_4E3F_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -51,31 +51,29 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-384</integer>
+            <integer>376</integer>
             <key>y</key>
-            <integer>-111</integer>
+            <integer>45</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
-            <key>R_shu_slant</key>
-            <integer>0</integer>
-            <key>bottom_curve</key>
-            <integer>100</integer>
             <key>height</key>
-            <real>683.77</real>
+            <real>894.00817067635</real>
+            <key>hook_width</key>
+            <real>207.276441216523</real>
             <key>topright_serif_height</key>
-            <real>-8.09218377088306</real>
+            <integer>72</integer>
             <key>topright_serif_width</key>
-            <real>-13.7604415274463</real>
+            <integer>119</integer>
             <key>weight</key>
-            <integer>76</integer>
+            <integer>65</integer>
             <key>width</key>
-            <real>381.5</real>
+            <real>406.695415342714</real>
           </dict>
           <key>name</key>
-          <string>S_31D5_00</string>
+          <string>S_31C6_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -89,9 +87,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-536</integer>
+            <integer>-41</integer>
             <key>y</key>
-            <integer>-76</integer>
+            <integer>-59</integer>
           </dict>
         </dict>
         <dict>
@@ -100,7 +98,7 @@
             <key>weight</key>
             <integer>29</integer>
             <key>width</key>
-            <real>294.29</real>
+            <real>334.719700408534</real>
           </dict>
           <key>name</key>
           <string>S_4E00_01</string>
@@ -117,9 +115,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>114</integer>
+            <integer>551</integer>
             <key>y</key>
-            <integer>113</integer>
+            <integer>148</integer>
           </dict>
         </dict>
         <dict>
@@ -128,7 +126,7 @@
             <key>weight</key>
             <integer>29</integer>
             <key>width</key>
-            <real>314.29</real>
+            <real>325.073763050386</real>
           </dict>
           <key>name</key>
           <string>S_4E00_01</string>
@@ -145,9 +143,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>86</integer>
+            <integer>558</integer>
             <key>y</key>
-            <integer>-174</integer>
+            <integer>-90</integer>
           </dict>
         </dict>
       </array>
@@ -161,21 +159,21 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>bottom_curve</key>
-                <integer>100</integer>
                 <key>height</key>
-                <real>713.84</real>
-                <key>top_angle</key>
-                <real>1.22315035799522</real>
+                <real>862.664548343168</real>
                 <key>top_serif_height</key>
-                <real>4.146778042959433</real>
+                <integer>38</integer>
                 <key>top_serif_width</key>
-                <real>-38.0742840095465</real>
+                <real>90.8320472083522</real>
+                <key>top_shu_height</key>
+                <integer>433</integer>
                 <key>weight</key>
-                <integer>68</integer>
+                <real>63.1357807535179</real>
+                <key>width</key>
+                <real>268.576486609169</real>
               </dict>
               <key>name</key>
-              <string>S_4E28_00</string>
+              <string>S_4E3F_00</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -189,31 +187,29 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-384</integer>
+                <integer>376</integer>
                 <key>y</key>
-                <integer>-111</integer>
+                <integer>46</integer>
               </dict>
             </dict>
             <dict>
               <key>coord</key>
               <dict>
-                <key>R_shu_slant</key>
-                <integer>0</integer>
-                <key>bottom_curve</key>
-                <integer>100</integer>
                 <key>height</key>
-                <real>683.77</real>
+                <real>894.00817067635</real>
+                <key>hook_width</key>
+                <real>203.690422151611</real>
                 <key>topright_serif_height</key>
-                <real>-8.09218377088306</real>
+                <real>67.3427144802542</real>
                 <key>topright_serif_width</key>
-                <real>-13.7604415274463</real>
+                <real>109.932364956877</real>
                 <key>weight</key>
-                <integer>76</integer>
+                <real>61.2318429414435</real>
                 <key>width</key>
-                <real>261.5</real>
+                <real>244.87</real>
               </dict>
               <key>name</key>
-              <string>S_31D5_00</string>
+              <string>S_31C6_00</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -227,9 +223,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-637</integer>
+                <integer>-201</integer>
                 <key>y</key>
-                <integer>-76</integer>
+                <integer>-59</integer>
               </dict>
             </dict>
             <dict>
@@ -238,7 +234,7 @@
                 <key>weight</key>
                 <integer>29</integer>
                 <key>width</key>
-                <real>204.29</real>
+                <real>170.738765320018</real>
               </dict>
               <key>name</key>
               <string>S_4E00_01</string>
@@ -255,9 +251,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>90</integer>
+                <integer>551</integer>
                 <key>y</key>
-                <integer>80</integer>
+                <integer>148</integer>
               </dict>
             </dict>
             <dict>
@@ -266,7 +262,7 @@
                 <key>weight</key>
                 <integer>29</integer>
                 <key>width</key>
-                <real>204.29</real>
+                <real>168.182591920109</real>
               </dict>
               <key>name</key>
               <string>S_4E00_01</string>
@@ -283,9 +279,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>95</integer>
+                <integer>558</integer>
                 <key>y</key>
-                <integer>-206</integer>
+                <integer>-90</integer>
               </dict>
             </dict>
           </array>
@@ -294,12 +290,12 @@
           <key>location</key>
           <dict>
             <key>width</key>
-            <integer>271</integer>
+            <integer>30</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=271</string>
+          <string>width=30</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

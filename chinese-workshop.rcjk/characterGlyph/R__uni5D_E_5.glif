@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni5531" format="2">
-  <advance width="1000"/>
-  <unicode hex="5531"/>
+<glyph name="R_uni5DE5" format="2">
+  <advance width="500"/>
   <outline>
   </outline>
   <lib>
@@ -11,23 +10,15 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>bottom_heng_moveV</key>
-            <real>-291.604384653712</real>
-            <key>bottomleft_foot_length</key>
+            <key>serif_height</key>
             <integer>0</integer>
-            <key>bottomright_foot_length</key>
-            <integer>-100</integer>
-            <key>height</key>
-            <real>677.238905128887</real>
-            <key>left_shu_weight</key>
+            <key>serif_with</key>
             <integer>0</integer>
-            <key>right_shu_weight</key>
-            <integer>-4</integer>
             <key>width</key>
-            <integer>300</integer>
+            <real>413.782816229117</real>
           </dict>
           <key>name</key>
-          <string>S_53E3_00</string>
+          <string>S_4E00_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -41,25 +32,23 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>25</integer>
+            <integer>42</integer>
             <key>y</key>
-            <integer>174</integer>
+            <integer>230</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
-            <key>bottomright_foot_length</key>
+            <key>serif_height</key>
             <integer>0</integer>
-            <key>height</key>
-            <integer>850</integer>
-            <key>right_shu_weight</key>
+            <key>serif_with</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>650</integer>
+            <real>473.78</real>
           </dict>
           <key>name</key>
-          <string>S_53E3_00</string>
+          <string>S_4E00_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -73,21 +62,29 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>344</integer>
+            <integer>12</integer>
             <key>y</key>
-            <integer>57</integer>
+            <integer>-440</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
+            <key>bottom_curve</key>
+            <integer>0</integer>
+            <key>height</key>
+            <real>672.613365155131</real>
+            <key>top_angle</key>
+            <real>-10.3072792362768</real>
+            <key>top_serif_height</key>
+            <real>-19.5778639618138</real>
+            <key>top_serif_width</key>
+            <integer>0</integer>
             <key>weight</key>
-            <integer>30</integer>
-            <key>width</key>
-            <integer>542</integer>
+            <integer>68</integer>
           </dict>
           <key>name</key>
-          <string>S_4E00_01</string>
+          <string>S_4E28_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -101,9 +98,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>422</integer>
+            <integer>-264</integer>
             <key>y</key>
-            <integer>73</integer>
+            <integer>-190</integer>
           </dict>
         </dict>
       </array>

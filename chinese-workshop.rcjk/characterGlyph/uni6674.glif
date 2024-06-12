@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni62B2" format="2">
+<glyph name="uni6674" format="2">
   <advance width="1000"/>
-  <unicode hex="62B2"/>
+  <unicode hex="6674"/>
   <outline>
   </outline>
   <lib>
@@ -12,36 +12,10 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <real>338.386336515513</real>
+            <real>279.473338203068</real>
           </dict>
           <key>name</key>
-          <string>R_624C_left</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>0</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>width</key>
-            <real>648.493436754177</real>
-          </dict>
-          <key>name</key>
-          <string>R_53EF_right</string>
+          <string>R_65E5_left</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
