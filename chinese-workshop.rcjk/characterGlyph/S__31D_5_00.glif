@@ -73,6 +73,26 @@
           <key>name</key>
           <string>topright_serif_width</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>76</integer>
+          <key>maxValue</key>
+          <integer>76</integer>
+          <key>minValue</key>
+          <integer>50</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R_shu_slant</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -180,6 +200,36 @@
           <true/>
           <key>sourceName</key>
           <string>topright_serif_width=-50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=50</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>R_shu_slant=100</string>
+          <key>location</key>
+          <dict>
+            <key>R_shu_slant</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>R_shu_slant=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
