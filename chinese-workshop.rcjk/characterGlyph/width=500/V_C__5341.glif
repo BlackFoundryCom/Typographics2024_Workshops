@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VC_5341" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="663" y="834" type="line"/>
+      <point x="698" y="830"/>
+      <point x="734" y="827"/>
+      <point x="769" y="823" type="curve"/>
+      <point x="768" y="808"/>
+      <point x="759" y="797"/>
+      <point x="731" y="793" type="curve"/>
+      <point x="731" y="-49" type="line" smooth="yes"/>
+      <point x="731" y="-59"/>
+      <point x="700" y="-76"/>
+      <point x="676" y="-76" type="curve"/>
+      <point x="663" y="-76" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="472" type="line"/>
+      <point x="808" y="472" type="line"/>
+      <point x="861" y="541" type="line"/>
+      <point x="861" y="541"/>
+      <point x="940" y="475"/>
+      <point x="958" y="459" type="curve"/>
+      <point x="955" y="448"/>
+      <point x="947" y="443"/>
+      <point x="932" y="443" type="curve"/>
+      <point x="467" y="443" type="line"/>
+    </contour>
+  </outline>
+</glyph>
