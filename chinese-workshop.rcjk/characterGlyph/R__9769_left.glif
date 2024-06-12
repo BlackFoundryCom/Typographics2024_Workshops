@@ -243,11 +243,11 @@
             <key>bottom_curve</key>
             <integer>100</integer>
             <key>height</key>
-            <integer>200</integer>
+            <integer>260</integer>
             <key>top_angle</key>
             <real>-9.0244630071599</real>
             <key>top_serif_height</key>
-            <real>-22.3001193317422</real>
+            <real>-1.23813931960194</real>
             <key>top_serif_width</key>
             <integer>0</integer>
             <key>weight</key>
@@ -270,7 +270,7 @@
             <key>x</key>
             <integer>-87</integer>
             <key>y</key>
-            <integer>-155</integer>
+            <integer>-75</integer>
           </dict>
         </dict>
         <dict>
@@ -279,11 +279,11 @@
             <key>bottom_curve</key>
             <integer>100</integer>
             <key>height</key>
-            <integer>200</integer>
+            <integer>260</integer>
             <key>top_angle</key>
             <real>-9.0244630071599</real>
             <key>top_serif_height</key>
-            <real>-22.3001193317422</real>
+            <real>3.63727532207051</real>
             <key>top_serif_width</key>
             <integer>0</integer>
             <key>weight</key>
@@ -306,7 +306,7 @@
             <key>x</key>
             <integer>-304</integer>
             <key>y</key>
-            <integer>-155</integer>
+            <integer>-75</integer>
           </dict>
         </dict>
       </array>

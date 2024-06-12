@@ -2,71 +2,6 @@
 <glyph name="R_7E9F_left" format="2">
   <advance width="1000"/>
   <outline>
-    <contour>
-      <point x="43" y="69" type="curve"/>
-      <point x="89" y="-15" type="line"/>
-      <point x="98" y="-12"/>
-      <point x="106" y="-3"/>
-      <point x="109" y="10" type="curve"/>
-      <point x="207" y="64"/>
-      <point x="281" y="111"/>
-      <point x="332" y="147" type="curve"/>
-      <point x="328" y="160" type="line"/>
-      <point x="290" y="147"/>
-      <point x="79" y="79"/>
-    </contour>
-    <contour>
-      <point x="279" y="798" type="line"/>
-      <point x="275" y="789"/>
-      <point x="263" y="780"/>
-      <point x="243" y="781" type="curve"/>
-      <point x="207" y="711"/>
-      <point x="146" y="611"/>
-      <point x="88" y="546" type="curve"/>
-      <point x="138" y="548"/>
-      <point x="213" y="553"/>
-      <point x="252" y="556" type="curve"/>
-      <point x="253" y="541" type="line"/>
-      <point x="223" y="529"/>
-      <point x="155" y="502"/>
-      <point x="88" y="482" type="curve"/>
-      <point x="83" y="474"/>
-      <point x="76" y="469"/>
-      <point x="70" y="466" type="curve"/>
-      <point x="35" y="552" type="line"/>
-      <point x="35" y="552"/>
-      <point x="52" y="557"/>
-      <point x="59" y="561" type="curve"/>
-      <point x="107" y="621"/>
-      <point x="164" y="760"/>
-      <point x="184" y="837" type="curve"/>
-    </contour>
-    <contour>
-      <point x="356" y="619" type="line"/>
-      <point x="352" y="610"/>
-      <point x="339" y="602"/>
-      <point x="318" y="605" type="curve"/>
-      <point x="272" y="514"/>
-      <point x="182" y="389"/>
-      <point x="102" y="302" type="curve"/>
-      <point x="175" y="312"/>
-      <point x="301" y="330"/>
-      <point x="329" y="334" type="curve"/>
-      <point x="331" y="320" type="line"/>
-      <point x="282" y="301"/>
-      <point x="190" y="265"/>
-      <point x="94" y="234" type="curve"/>
-      <point x="87" y="223"/>
-      <point x="78" y="215"/>
-      <point x="70" y="212" type="curve"/>
-      <point x="36" y="297" type="line"/>
-      <point x="36" y="297"/>
-      <point x="57" y="302"/>
-      <point x="62" y="306" type="curve"/>
-      <point x="137" y="389"/>
-      <point x="230" y="565"/>
-      <point x="267" y="667" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -83,13 +18,219 @@
           <string>width</string>
         </dict>
       </array>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_height</key>
+            <integer>100</integer>
+            <key>bottom_width</key>
+            <real>219.63280104914</real>
+            <key>left_height</key>
+            <real>372.19</real>
+            <key>left_width</key>
+            <real>253.975931497339</real>
+          </dict>
+          <key>name</key>
+          <string>S_200CB_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-107</integer>
+            <key>y</key>
+            <integer>501</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_height</key>
+            <integer>130</integer>
+            <key>bottom_width</key>
+            <real>303.60256113554</real>
+            <key>left_height</key>
+            <real>462.19</real>
+            <key>left_width</key>
+            <real>329.953714417959</real>
+          </dict>
+          <key>name</key>
+          <string>S_200CB_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-108</integer>
+            <key>y</key>
+            <integer>245</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_curve</key>
+            <integer>0</integer>
+            <key>height</key>
+            <integer>179</integer>
+            <key>serif_height</key>
+            <integer>100</integer>
+            <key>serif_width</key>
+            <integer>100</integer>
+            <key>top_curve</key>
+            <integer>0</integer>
+            <key>width</key>
+            <real>308.12</real>
+          </dict>
+          <key>name</key>
+          <string>S_31C0_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-32</integer>
+            <key>y</key>
+            <integer>35</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>bottom_height</key>
+                <integer>100</integer>
+                <key>bottom_width</key>
+                <real>301.72</real>
+                <key>left_height</key>
+                <real>372.19</real>
+                <key>left_width</key>
+                <real>332.522564221245</real>
+              </dict>
+              <key>name</key>
+              <string>S_200CB_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-109</integer>
+                <key>y</key>
+                <integer>501</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>bottom_height</key>
+                <integer>110</integer>
+                <key>bottom_width</key>
+                <real>380.62948391576</real>
+                <key>left_height</key>
+                <real>462.19</real>
+                <key>left_width</key>
+                <real>412.52</real>
+              </dict>
+              <key>name</key>
+              <string>S_200CB_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-108</integer>
+                <key>y</key>
+                <integer>245</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>bottom_curve</key>
+                <integer>0</integer>
+                <key>height</key>
+                <integer>189</integer>
+                <key>serif_height</key>
+                <integer>100</integer>
+                <key>serif_width</key>
+                <integer>100</integer>
+                <key>top_curve</key>
+                <integer>0</integer>
+                <key>width</key>
+                <real>398.121576795495</real>
+              </dict>
+              <key>name</key>
+              <string>S_31C0_00</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>-32</integer>
+                <key>y</key>
+                <integer>35</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
-          <string>width=400</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>width</key>

@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <real>304.793257756563</real>
+            <real>314.623210023866</real>
           </dict>
           <key>name</key>
           <string>R_76EE_left</string>
@@ -38,7 +38,7 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <real>498.806682577566</real>
+            <real>498.280877088305</real>
           </dict>
           <key>name</key>
           <string>R_5360_right</string>

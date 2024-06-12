@@ -138,6 +138,23 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>left_height=350,left_width=230</string>
+          <key>location</key>
+          <dict>
+            <key>left_height</key>
+            <integer>350</integer>
+            <key>left_width</key>
+            <integer>230</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>left_height=350,left_width=230</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
