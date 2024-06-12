@@ -62,13 +62,23 @@
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>0</integer>
+          <integer>100</integer>
           <key>maxValue</key>
           <integer>100</integer>
           <key>minValue</key>
           <integer>0</integer>
           <key>name</key>
           <string>serif_width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>serif_height</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -149,6 +159,36 @@
           <true/>
           <key>sourceName</key>
           <string>bottom_curve=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_width=0</string>
+          <key>location</key>
+          <dict>
+            <key>serif_width</key>
+            <integer>0</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_width=0</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>serif_height=0</string>
+          <key>location</key>
+          <dict>
+            <key>serif_height</key>
+            <integer>0</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif_height=0</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
