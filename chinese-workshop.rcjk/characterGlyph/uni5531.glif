@@ -12,13 +12,13 @@
           <key>coord</key>
           <dict>
             <key>bottom_heng_moveV</key>
-            <real>-291.604384653712</real>
+            <real>27.34</real>
             <key>bottomleft_foot_length</key>
             <integer>0</integer>
             <key>bottomright_foot_length</key>
-            <integer>-100</integer>
+            <real>-87.2820129546587</real>
             <key>height</key>
-            <real>677.238905128887</real>
+            <real>676.74389636273</real>
             <key>left_shu_weight</key>
             <integer>0</integer>
             <key>right_shu_weight</key>
@@ -43,7 +43,7 @@
             <key>x</key>
             <integer>25</integer>
             <key>y</key>
-            <integer>174</integer>
+            <integer>153</integer>
           </dict>
         </dict>
         <dict>
@@ -73,9 +73,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>344</integer>
+            <integer>944</integer>
             <key>y</key>
-            <integer>57</integer>
+            <integer>-286</integer>
           </dict>
         </dict>
         <dict>
@@ -101,9 +101,75 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>422</integer>
+            <integer>1022</integer>
             <key>y</key>
-            <integer>73</integer>
+            <integer>-270</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_heng_moveV</key>
+            <real>-47.7391629297459</real>
+            <key>bottomleft_foot_length</key>
+            <integer>0</integer>
+            <key>bottomright_foot_length</key>
+            <real>6.072496263079216</real>
+            <key>height</key>
+            <integer>400</integer>
+            <key>left_shu_weight</key>
+            <integer>0</integer>
+            <key>right_shu_weight</key>
+            <integer>-4</integer>
+            <key>width</key>
+            <real>496.363976083707</real>
+          </dict>
+          <key>name</key>
+          <string>S_53E3_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>375</integer>
+            <key>y</key>
+            <integer>504</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>weight</key>
+            <integer>29</integer>
+            <key>width</key>
+            <integer>390</integer>
+          </dict>
+          <key>name</key>
+          <string>S_4E00_01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>463</integer>
+            <key>y</key>
+            <integer>243</integer>
           </dict>
         </dict>
       </array>

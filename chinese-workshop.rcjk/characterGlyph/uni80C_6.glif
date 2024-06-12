@@ -10,7 +10,10 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>width</key>
+            <real>35.7741646778043</real>
+          </dict>
           <key>name</key>
           <string>R_6708_right</string>
           <key>transform</key>
@@ -26,9 +29,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>1231</integer>
+            <integer>-354</integer>
             <key>y</key>
-            <integer>1287</integer>
+            <integer>7</integer>
           </dict>
         </dict>
         <dict>
