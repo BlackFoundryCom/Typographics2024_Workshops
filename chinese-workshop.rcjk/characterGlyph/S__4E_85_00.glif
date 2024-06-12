@@ -3,26 +3,26 @@
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="469" y="825" type="line"/>
-      <point x="576" y="813" type="line"/>
-      <point x="573" y="800"/>
-      <point x="539" y="811"/>
-      <point x="539" y="786" type="curve" smooth="yes"/>
+      <point x="469" y="833" type="line"/>
+      <point x="576" y="821" type="line"/>
+      <point x="573" y="808"/>
+      <point x="539" y="819"/>
+      <point x="539" y="794" type="curve" smooth="yes"/>
       <point x="539" y="30" type="line" smooth="yes"/>
-      <point x="539" y="-28"/>
-      <point x="521.4921560909795" y="-65.37922636854276"/>
-      <point x="414" y="-77" type="curve"/>
-      <point x="411" y="-53"/>
-      <point x="404" y="-36"/>
-      <point x="385" y="-23" type="curve"/>
-      <point x="365" y="-11"/>
-      <point x="334" y="-2"/>
-      <point x="275" y="6" type="curve"/>
-      <point x="275" y="22" type="line"/>
-      <point x="275" y="22"/>
-      <point x="378" y="11"/>
-      <point x="440" y="11" type="curve" smooth="yes"/>
-      <point x="463" y="11"/>
+      <point x="539" y="-35"/>
+      <point x="492" y="-76"/>
+      <point x="384" y="-77" type="curve"/>
+      <point x="381" y="-53"/>
+      <point x="374" y="-35"/>
+      <point x="355" y="-23" type="curve" smooth="yes"/>
+      <point x="335" y="-10"/>
+      <point x="298" y="-2"/>
+      <point x="239" y="6" type="curve"/>
+      <point x="239" y="22" type="line"/>
+      <point x="239" y="22"/>
+      <point x="348" y="11"/>
+      <point x="410" y="11" type="curve" smooth="yes"/>
+      <point x="433" y="11"/>
       <point x="469" y="19"/>
       <point x="469" y="36" type="curve"/>
     </contour>
@@ -33,17 +33,60 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>301</integer>
+          <integer>910</integer>
           <key>maxValue</key>
-          <integer>310</integer>
+          <integer>910</integer>
           <key>minValue</key>
-          <integer>250</integer>
+          <integer>550</integer>
           <key>name</key>
           <string>height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>300</integer>
+          <key>maxValue</key>
+          <integer>300</integer>
+          <key>minValue</key>
+          <integer>200</integer>
+          <key>name</key>
+          <string>hook_width</string>
         </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>height=550</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>550</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height=550</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>hook_width=200</string>
+          <key>location</key>
+          <dict>
+            <key>hook_width</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>hook_width=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
