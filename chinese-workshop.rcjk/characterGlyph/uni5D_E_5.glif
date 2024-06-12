@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="R_624C_left" format="2">
-  <advance width="1000"/>
+<glyph name="uni5DE5" format="2">
+  <advance width="500"/>
+  <unicode hex="5DE5"/>
   <outline>
   </outline>
   <lib>
@@ -15,7 +16,7 @@
             <key>serif_with</key>
             <integer>0</integer>
             <key>width</key>
-            <real>617.72076372315</real>
+            <real>413.782816229117</real>
           </dict>
           <key>name</key>
           <string>S_4E00_00</string>
@@ -32,27 +33,23 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>20</integer>
+            <integer>42</integer>
             <key>y</key>
-            <integer>70</integer>
+            <integer>230</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
-            <key>height</key>
-            <integer>910</integer>
-            <key>hook_height</key>
-            <integer>120</integer>
-            <key>hook_width</key>
-            <real>205.5638424821</real>
             <key>serif_height</key>
-            <integer>10</integer>
-            <key>serif_width</key>
-            <integer>40</integer>
+            <integer>0</integer>
+            <key>serif_with</key>
+            <integer>0</integer>
+            <key>width</key>
+            <real>473.78</real>
           </dict>
           <key>name</key>
-          <string>S_4E85_00</string>
+          <string>S_4E00_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -66,9 +63,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-210</integer>
+            <integer>12</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-440</integer>
           </dict>
         </dict>
         <dict>
@@ -77,18 +74,18 @@
             <key>bottom_curve</key>
             <integer>0</integer>
             <key>height</key>
-            <integer>129</integer>
-            <key>serif_height</key>
-            <integer>100</integer>
-            <key>serif_width</key>
-            <integer>100</integer>
-            <key>top_curve</key>
+            <real>672.613365155131</real>
+            <key>top_angle</key>
+            <real>-10.3072792362768</real>
+            <key>top_serif_height</key>
+            <real>-19.5778639618138</real>
+            <key>top_serif_width</key>
             <integer>0</integer>
-            <key>width</key>
-            <real>674.81727326969</real>
+            <key>weight</key>
+            <integer>68</integer>
           </dict>
           <key>name</key>
-          <string>S_31C0_00</string>
+          <string>S_4E28_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -102,9 +99,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-50</integer>
+            <integer>-264</integer>
             <key>y</key>
-            <integer>260</integer>
+            <integer>-190</integer>
           </dict>
         </dict>
       </array>

@@ -3,36 +3,6 @@
   <advance width="1000"/>
   <unicode hex="5B57"/>
   <outline>
-    <contour>
-      <point x="166" y="681" type="line"/>
-      <point x="835" y="681" type="line"/>
-      <point x="881" y="724" type="line"/>
-      <point x="959" y="648" type="line"/>
-      <point x="949" y="642"/>
-      <point x="937" y="639"/>
-      <point x="921" y="639" type="curve"/>
-      <point x="889" y="602"/>
-      <point x="849" y="565"/>
-      <point x="801" y="528" type="curve"/>
-      <point x="786" y="534" type="line"/>
-      <point x="806" y="573"/>
-      <point x="822" y="612"/>
-      <point x="836" y="651" type="curve"/>
-      <point x="165" y="651" type="line"/>
-    </contour>
-    <contour>
-      <point x="-7" y="536" type="line"/>
-      <point x="662" y="536" type="line"/>
-      <point x="708" y="579" type="line"/>
-      <point x="789" y="508" type="line"/>
-      <point x="779" y="502"/>
-      <point x="767" y="499"/>
-      <point x="751" y="499" type="curve"/>
-      <point x="542" y="387" type="line"/>
-      <point x="527" y="393" type="line"/>
-      <point x="649" y="506" type="line"/>
-      <point x="-8" y="506" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -99,7 +69,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>-3</integer>
             <key>y</key>
             <integer>-10</integer>
           </dict>
@@ -155,6 +125,64 @@
             <integer>0</integer>
             <key>y</key>
             <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>right_length</key>
+            <real>198.14</real>
+            <key>right_width</key>
+            <integer>-4</integer>
+          </dict>
+          <key>name</key>
+          <string>S_4E5B_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>left_length</key>
+            <integer>-234</integer>
+            <key>right_length</key>
+            <real>195.137665708723</real>
+            <key>right_width</key>
+            <integer>90</integer>
+          </dict>
+          <key>name</key>
+          <string>S_4E5B_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-174</integer>
+            <key>y</key>
+            <integer>-145</integer>
           </dict>
         </dict>
       </array>

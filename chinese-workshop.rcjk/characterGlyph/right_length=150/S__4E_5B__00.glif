@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_4E5B_00" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="155" y="681" type="line"/>
+      <point x="165" y="651" type="line"/>
+      <point x="836" y="651" type="line"/>
+      <point x="831" y="628"/>
+      <point x="825" y="605"/>
+      <point x="816" y="584" type="curve"/>
+      <point x="831" y="574" type="line"/>
+      <point x="865" y="595"/>
+      <point x="895" y="616"/>
+      <point x="921" y="639" type="curve"/>
+      <point x="937" y="639"/>
+      <point x="949" y="642"/>
+      <point x="959" y="648" type="curve"/>
+      <point x="881" y="724" type="line"/>
+      <point x="835" y="681" type="line"/>
+    </contour>
+  </outline>
+</glyph>
