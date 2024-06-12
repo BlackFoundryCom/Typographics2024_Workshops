@@ -67,6 +67,16 @@
           <dict>
             <key>height</key>
             <real>529.88</real>
+            <key>left_curve</key>
+            <integer>-24</integer>
+            <key>right_curve</key>
+            <integer>-21</integer>
+            <key>serif_width</key>
+            <integer>-3</integer>
+            <key>serit_height</key>
+            <integer>21</integer>
+            <key>top_angle</key>
+            <integer>-23</integer>
             <key>width</key>
             <real>471.19</real>
           </dict>
@@ -85,9 +95,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-361</integer>
+            <integer>-360</integer>
             <key>y</key>
-            <integer>71</integer>
+            <integer>70</integer>
           </dict>
         </dict>
       </array>

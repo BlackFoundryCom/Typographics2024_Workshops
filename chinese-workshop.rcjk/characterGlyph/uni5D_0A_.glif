@@ -226,6 +226,10 @@
           <dict>
             <key>height</key>
             <real>477.1</real>
+            <key>right_curve</key>
+            <integer>4</integer>
+            <key>serif_width</key>
+            <real>-33.7385538364383</real>
             <key>top_weight</key>
             <integer>-14</integer>
             <key>width</key>

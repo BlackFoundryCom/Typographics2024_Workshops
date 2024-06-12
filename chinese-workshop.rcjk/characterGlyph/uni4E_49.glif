@@ -51,6 +51,10 @@
           <dict>
             <key>height</key>
             <integer>836</integer>
+            <key>left_curve</key>
+            <integer>4</integer>
+            <key>right_curve</key>
+            <integer>4</integer>
             <key>width</key>
             <integer>816</integer>
           </dict>
