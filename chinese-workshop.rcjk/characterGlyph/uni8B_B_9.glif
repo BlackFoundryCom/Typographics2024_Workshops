@@ -113,6 +113,41 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_ti_angle</key>
+            <real>7.7804295942720785</real>
+            <key>height</key>
+            <real>634.300417661098</real>
+            <key>weight</key>
+            <integer>56</integer>
+            <key>width</key>
+            <integer>300</integer>
+          </dict>
+          <key>name</key>
+          <string>S_31CA_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-50</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
     </dict>

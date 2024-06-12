@@ -3,17 +3,17 @@
   <advance width="1000"/>
   <outline>
     <contour>
-      <point x="54" y="33" type="line"/>
-      <point x="151" y="32"/>
-      <point x="216" y="35"/>
-      <point x="302" y="43" type="curve"/>
-      <point x="304" y="24" type="line"/>
-      <point x="232" y="-1"/>
-      <point x="186" y="-15"/>
-      <point x="112" y="-34" type="curve"/>
-      <point x="105" y="-46"/>
-      <point x="97" y="-53"/>
-      <point x="86" y="-55" type="curve"/>
+      <point x="73" y="33" type="line"/>
+      <point x="171" y="36"/>
+      <point x="774" y="69"/>
+      <point x="858" y="74" type="curve"/>
+      <point x="860" y="55" type="line"/>
+      <point x="633" y="21"/>
+      <point x="367" y="-11"/>
+      <point x="131" y="-34" type="curve"/>
+      <point x="124" y="-46"/>
+      <point x="116" y="-53"/>
+      <point x="105" y="-55" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -29,6 +29,16 @@
           <integer>250</integer>
           <key>name</key>
           <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>129</integer>
+          <key>maxValue</key>
+          <integer>252</integer>
+          <key>minValue</key>
+          <integer>129</integer>
+          <key>name</key>
+          <string>height</string>
         </dict>
       </array>
       <key>robocjk.status</key>

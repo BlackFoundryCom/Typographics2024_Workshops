@@ -59,11 +59,21 @@
           <key>defaultValue</key>
           <integer>65</integer>
           <key>maxValue</key>
-          <integer>68</integer>
+          <integer>70</integer>
           <key>minValue</key>
-          <integer>56</integer>
+          <integer>55</integer>
           <key>name</key>
           <string>weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>72</integer>
+          <key>maxValue</key>
+          <integer>72</integer>
+          <key>minValue</key>
+          <integer>40</integer>
+          <key>name</key>
+          <string>topright_serif_height</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -97,6 +107,51 @@
           <true/>
           <key>sourceName</key>
           <string>height=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=55</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>55</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=55</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=70</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>70</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=70</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>topright_serif_height=40</string>
+          <key>location</key>
+          <dict>
+            <key>topright_serif_height</key>
+            <integer>40</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>topright_serif_height=40</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_31CA_00" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="272" y="86" type="curve"/>
+      <point x="287" y="74" type="line"/>
+      <point x="287" y="518" type="line"/>
+      <point x="305" y="522"/>
+      <point x="315" y="528"/>
+      <point x="322" y="534" type="curve"/>
+      <point x="266" y="597" type="line"/>
+      <point x="239" y="562" type="line"/>
+      <point x="116" y="562" type="line"/>
+      <point x="125" y="533" type="line"/>
+      <point x="221" y="533" type="line"/>
+      <point x="221" y="95" type="line"/>
+      <point x="221" y="76"/>
+      <point x="217" y="70"/>
+      <point x="188" y="55" type="curve"/>
+      <point x="233" y="-27" type="line"/>
+      <point x="258" y="-19"/>
+      <point x="267" y="-12"/>
+      <point x="286" y="-4" type="curve"/>
+      <point x="352" y="40"/>
+      <point x="407" y="91"/>
+      <point x="487" y="173" type="curve"/>
+      <point x="483" y="188" type="line"/>
+      <point x="430" y="157"/>
+      <point x="323" y="107"/>
+    </contour>
+  </outline>
+</glyph>

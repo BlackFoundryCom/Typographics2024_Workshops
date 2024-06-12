@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="S_200CB_00" format="2">
+<glyph name="S_31CA_00" format="2">
   <advance width="500"/>
   <outline>
     <contour>
@@ -74,6 +74,26 @@
           <key>name</key>
           <string>weight</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>bottom_ti_width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>-100</integer>
+          <key>name</key>
+          <string>bottom_ti_height</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -146,6 +166,66 @@
           <true/>
           <key>sourceName</key>
           <string>width=300,height=624,bottom_ti_angle=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>bottom_ti_width=100</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bottom_ti_width=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>bottom_ti_width=-100</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_width</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bottom_ti_width=-100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>bottom_ti_height=100</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_height</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bottom_ti_height=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>bottom_ti_height=-100</string>
+          <key>location</key>
+          <dict>
+            <key>bottom_ti_height</key>
+            <integer>-100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bottom_ti_height=-100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
