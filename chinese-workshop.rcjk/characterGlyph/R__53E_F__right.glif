@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="R_624C_left" format="2">
+<glyph name="R_53EF_right" format="2">
   <advance width="1000"/>
   <outline>
   </outline>
@@ -9,11 +9,11 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>523</integer>
+          <integer>1000</integer>
           <key>maxValue</key>
-          <integer>523</integer>
+          <integer>1000</integer>
           <key>minValue</key>
-          <integer>300</integer>
+          <integer>400</integer>
           <key>name</key>
           <string>width</string>
         </dict>
@@ -28,7 +28,7 @@
             <key>serif_with</key>
             <integer>0</integer>
             <key>width</key>
-            <real>515.751789976134</real>
+            <integer>1000</integer>
           </dict>
           <key>name</key>
           <string>S_4E00_00</string>
@@ -45,24 +45,24 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>50</integer>
+            <integer>0</integer>
             <key>y</key>
-            <integer>60</integer>
+            <integer>290</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>height</key>
-            <integer>910</integer>
+            <real>832.243436754177</real>
             <key>hook_height</key>
             <integer>120</integer>
             <key>hook_width</key>
-            <real>205.5638424821</real>
+            <integer>300</integer>
             <key>serif_height</key>
-            <integer>10</integer>
+            <integer>5</integer>
             <key>serif_width</key>
-            <integer>40</integer>
+            <integer>30</integer>
           </dict>
           <key>name</key>
           <string>S_4E85_00</string>
@@ -79,7 +79,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-210</integer>
+            <integer>190</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -87,21 +87,13 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>bottom_curve</key>
-            <integer>0</integer>
             <key>height</key>
-            <integer>129</integer>
-            <key>serif_height</key>
-            <integer>100</integer>
-            <key>serif_width</key>
-            <integer>100</integer>
-            <key>top_curve</key>
-            <integer>0</integer>
+            <real>452.558174224344</real>
             <key>width</key>
-            <real>581.156772076372</real>
+            <real>403.333830548926</real>
           </dict>
           <key>name</key>
-          <string>S_31C0_00</string>
+          <string>R_53E3_left</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -115,9 +107,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-23</integer>
+            <integer>82</integer>
             <key>y</key>
-            <integer>270</integer>
+            <integer>-156</integer>
           </dict>
         </dict>
       </array>
@@ -132,11 +124,11 @@
               <key>coord</key>
               <dict>
                 <key>serif_height</key>
-                <real>-8.03997613365155</real>
+                <integer>0</integer>
                 <key>serif_with</key>
-                <real>-32.950477326969</real>
+                <integer>0</integer>
                 <key>width</key>
-                <real>305.75</real>
+                <integer>500</integer>
               </dict>
               <key>name</key>
               <string>S_4E00_00</string>
@@ -153,9 +145,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>50</integer>
+                <integer>0</integer>
                 <key>y</key>
-                <integer>50</integer>
+                <integer>290</integer>
               </dict>
             </dict>
             <dict>
@@ -166,7 +158,7 @@
                 <key>hook_height</key>
                 <integer>120</integer>
                 <key>hook_width</key>
-                <integer>200</integer>
+                <integer>300</integer>
                 <key>serif_height</key>
                 <integer>10</integer>
                 <key>serif_width</key>
@@ -187,7 +179,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-310</integer>
+                <integer>-110</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -195,21 +187,13 @@
             <dict>
               <key>coord</key>
               <dict>
-                <key>bottom_curve</key>
-                <integer>0</integer>
                 <key>height</key>
-                <integer>129</integer>
-                <key>serif_height</key>
-                <integer>100</integer>
-                <key>serif_width</key>
-                <integer>100</integer>
-                <key>top_curve</key>
-                <integer>0</integer>
+                <real>379.624105011933</real>
                 <key>width</key>
-                <real>329.13</real>
+                <real>268.828311455847</real>
               </dict>
               <key>name</key>
-              <string>S_31C0_00</string>
+              <string>R_53E3_left</string>
               <key>transform</key>
               <dict>
                 <key>rotation</key>
@@ -223,9 +207,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-23</integer>
+                <integer>-18</integer>
                 <key>y</key>
-                <integer>280</integer>
+                <integer>-156</integer>
               </dict>
             </dict>
           </array>
@@ -234,12 +218,12 @@
           <key>location</key>
           <dict>
             <key>width</key>
-            <integer>300</integer>
+            <integer>400</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=300</string>
+          <string>width=400</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
