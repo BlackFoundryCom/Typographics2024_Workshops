@@ -54,15 +54,15 @@
             <key>bottomleft_foot_length</key>
             <integer>0</integer>
             <key>bottomright_foot_length</key>
-            <real>6.072496263079216</real>
+            <integer>0</integer>
             <key>height</key>
-            <integer>400</integer>
+            <real>411.95067264574</real>
             <key>left_shu_weight</key>
             <integer>0</integer>
             <key>right_shu_weight</key>
             <integer>-4</integer>
             <key>width</key>
-            <real>496.363976083707</real>
+            <integer>502</integer>
           </dict>
           <key>name</key>
           <string>S_53E3_00</string>
@@ -79,9 +79,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>375</integer>
+            <integer>371</integer>
             <key>y</key>
-            <integer>499</integer>
+            <integer>483</integer>
           </dict>
         </dict>
         <dict>
@@ -118,7 +118,7 @@
             <key>bottom_heng_moveV</key>
             <real>-47.7391629297459</real>
             <key>bottomleft_foot_length</key>
-            <integer>0</integer>
+            <real>29.2561659192825</real>
             <key>bottomright_foot_length</key>
             <real>40.0473343298455</real>
             <key>height</key>

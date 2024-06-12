@@ -198,7 +198,7 @@
                 <key>bottom_curve</key>
                 <integer>0</integer>
                 <key>height</key>
-                <integer>129</integer>
+                <real>171.027107267329</real>
                 <key>serif_height</key>
                 <integer>100</integer>
                 <key>serif_width</key>
@@ -206,7 +206,7 @@
                 <key>top_curve</key>
                 <integer>0</integer>
                 <key>width</key>
-                <real>329.13</real>
+                <real>308.984122886279</real>
               </dict>
               <key>name</key>
               <string>S_31C0_00</string>

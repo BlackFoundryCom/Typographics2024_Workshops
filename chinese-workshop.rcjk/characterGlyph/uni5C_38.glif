@@ -16,7 +16,7 @@
             <key>top_serif_height</key>
             <integer>38</integer>
             <key>top_serif_width</key>
-            <real>66.3863365155131</real>
+            <integer>101</integer>
             <key>top_shu_height</key>
             <integer>433</integer>
             <key>weight</key>
@@ -41,14 +41,14 @@
             <key>x</key>
             <integer>33</integer>
             <key>y</key>
-            <integer>51</integer>
+            <integer>60</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>weight</key>
-            <integer>20</integer>
+            <integer>29</integer>
             <key>width</key>
             <real>671.718377088305</real>
           </dict>
@@ -69,7 +69,7 @@
             <key>x</key>
             <integer>200</integer>
             <key>y</key>
-            <integer>127</integer>
+            <integer>107</integer>
           </dict>
         </dict>
         <dict>
@@ -80,7 +80,7 @@
             <key>bottom_curve</key>
             <integer>100</integer>
             <key>height</key>
-            <real>725.119331742243</real>
+            <real>396.51</real>
             <key>topright_serif_height</key>
             <integer>0</integer>
             <key>topright_serif_width</key>

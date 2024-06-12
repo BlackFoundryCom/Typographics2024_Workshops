@@ -87,8 +87,10 @@
             <integer>60</integer>
             <key>right_serif_width</key>
             <integer>100</integer>
+            <key>serif_with</key>
+            <integer>-100</integer>
             <key>width</key>
-            <integer>729</integer>
+            <integer>709</integer>
           </dict>
           <key>name</key>
           <string>S_4E00_00</string>
@@ -105,7 +107,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>125</integer>
+            <integer>135</integer>
             <key>y</key>
             <integer>-64</integer>
           </dict>

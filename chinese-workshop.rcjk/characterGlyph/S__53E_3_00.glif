@@ -61,7 +61,7 @@
           <key>defaultValue</key>
           <integer>0</integer>
           <key>maxValue</key>
-          <integer>100</integer>
+          <integer>98</integer>
           <key>minValue</key>
           <integer>-100</integer>
           <key>name</key>

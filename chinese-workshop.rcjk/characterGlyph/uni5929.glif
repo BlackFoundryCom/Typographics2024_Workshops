@@ -72,9 +72,9 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <real>823.284606205251</real>
+            <integer>1000</integer>
             <key>top_serif_height</key>
-            <integer>28</integer>
+            <real>29.6467780429594</real>
             <key>top_serif_width</key>
             <integer>66</integer>
             <key>top_shu_height</key>
@@ -99,9 +99,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>207</integer>
+            <integer>222</integer>
             <key>y</key>
-            <integer>40</integer>
+            <integer>290</integer>
           </dict>
         </dict>
         <dict>
@@ -112,9 +112,9 @@
             <key>end_width</key>
             <real>18.4516706443914</real>
             <key>height</key>
-            <integer>810</integer>
+            <real>584.218930803055</real>
             <key>width</key>
-            <real>488.526849642005</real>
+            <real>523.572706935123</real>
           </dict>
           <key>name</key>
           <string>S_31CF_00</string>
@@ -131,9 +131,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>269</integer>
+            <integer>284</integer>
             <key>y</key>
-            <integer>6</integer>
+            <integer>-245</integer>
           </dict>
         </dict>
       </array>

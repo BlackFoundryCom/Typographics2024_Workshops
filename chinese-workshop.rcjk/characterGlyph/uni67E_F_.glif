@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni62B2" format="2">
+<glyph name="uni67EF" format="2">
   <advance width="1000"/>
-  <unicode hex="62B2"/>
+  <unicode hex="67EF"/>
   <outline>
   </outline>
   <lib>
@@ -10,12 +10,9 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict>
-            <key>width</key>
-            <real>338.386336515513</real>
-          </dict>
+          <dict/>
           <key>name</key>
-          <string>R_624C_left</string>
+          <string>R_6728_left</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -29,7 +26,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>-40</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -37,11 +34,23 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>bottom_heng_moveV</key>
+            <integer>0</integer>
+            <key>bottomleft_foot_length</key>
+            <integer>0</integer>
+            <key>bottomright_foot_length</key>
+            <integer>0</integer>
+            <key>height</key>
+            <real>468.08</real>
+            <key>left_shu_weight</key>
+            <integer>0</integer>
+            <key>right_shu_weight</key>
+            <integer>0</integer>
             <key>width</key>
-            <real>503.740304295943</real>
+            <real>306.0830842052819</real>
           </dict>
           <key>name</key>
-          <string>R_53EF_right</string>
+          <string>S_53E3_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -55,9 +64,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>400</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>200</integer>
           </dict>
         </dict>
       </array>
