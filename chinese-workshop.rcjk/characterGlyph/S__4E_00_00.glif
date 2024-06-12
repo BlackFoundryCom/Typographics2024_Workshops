@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_4E00_00" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="4" y="472" type="line"/>
+      <point x="854" y="472" type="line"/>
+      <point x="907" y="541" type="line"/>
+      <point x="907" y="541"/>
+      <point x="986" y="475"/>
+      <point x="1004" y="459" type="curve"/>
+      <point x="1001" y="448"/>
+      <point x="993" y="443"/>
+      <point x="978" y="443" type="curve"/>
+      <point x="13" y="443" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>1000</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>250</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>98</integer>
+          <key>maxValue</key>
+          <integer>98</integer>
+          <key>minValue</key>
+          <integer>40</integer>
+          <key>name</key>
+          <string>right_serif_height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>150</integer>
+          <key>maxValue</key>
+          <integer>150</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>right_serif_width</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>width=250</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>250</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=250</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>right_serif_height=40</string>
+          <key>location</key>
+          <dict>
+            <key>right_serif_height</key>
+            <integer>40</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>right_serif_height=40</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>right_serif_width=100</string>
+          <key>location</key>
+          <dict>
+            <key>right_serif_width</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>right_serif_width=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
