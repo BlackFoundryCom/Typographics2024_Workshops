@@ -125,7 +125,7 @@
             <key>x</key>
             <integer>114</integer>
             <key>y</key>
-            <integer>-282</integer>
+            <integer>-272</integer>
           </dict>
         </dict>
       </array>
@@ -231,7 +231,7 @@
                 <key>x</key>
                 <integer>86</integer>
                 <key>y</key>
-                <integer>-282</integer>
+                <integer>-272</integer>
               </dict>
             </dict>
           </array>
@@ -258,7 +258,7 @@
                 <key>bottom_curve</key>
                 <integer>100</integer>
                 <key>height</key>
-                <integer>372</integer>
+                <integer>235</integer>
                 <key>top_angle</key>
                 <real>14.6032219570406</real>
                 <key>top_serif_height</key>
@@ -347,7 +347,7 @@
                 <key>x</key>
                 <integer>114</integer>
                 <key>y</key>
-                <integer>208</integer>
+                <integer>233</integer>
               </dict>
             </dict>
           </array>

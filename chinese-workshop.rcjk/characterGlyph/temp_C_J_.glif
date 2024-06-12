@@ -17,6 +17,19 @@
       <point x="49" y="447" type="curve"/>
       <point x="49" y="880" type="line"/>
     </contour>
+    <contour>
+      <point x="214" y="735" type="curve"/>
+      <point x="195" y="723" type="line"/>
+      <point x="268" y="450"/>
+      <point x="503" y="285"/>
+      <point x="883" y="225" type="curve"/>
+      <point x="899" y="259"/>
+      <point x="927" y="277"/>
+      <point x="963" y="277" type="curve"/>
+      <point x="966" y="288" type="line"/>
+      <point x="559" y="328"/>
+      <point x="290" y="485"/>
+    </contour>
   </outline>
   <lib>
     <dict>

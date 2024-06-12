@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="uni5B57" format="2">
+<glyph name="uni5765" format="2">
   <advance width="1000"/>
-  <unicode hex="5B57"/>
+  <unicode hex="5765"/>
   <outline>
   </outline>
   <lib>
@@ -11,17 +11,11 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>height</key>
-            <real>151.429230059935</real>
-            <key>left_curve</key>
-            <integer>0</integer>
-            <key>right_curve</key>
-            <integer>14</integer>
             <key>width</key>
-            <real>142.42</real>
+            <integer>0</integer>
           </dict>
           <key>name</key>
-          <string>S_4E36_00</string>
+          <string>R_571F_left</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -35,9 +29,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-17</integer>
+            <integer>0</integer>
             <key>y</key>
-            <integer>286</integer>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>

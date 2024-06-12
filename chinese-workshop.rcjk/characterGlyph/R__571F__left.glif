@@ -28,7 +28,7 @@
             <key>right_serif_width</key>
             <integer>100</integer>
             <key>width</key>
-            <real>280.877088305489</real>
+            <real>349.343675417661</real>
           </dict>
           <key>name</key>
           <string>S_4E00_00</string>
@@ -94,7 +94,7 @@
             <key>right_serif_width</key>
             <integer>150</integer>
             <key>width</key>
-            <real>324.563693317422</real>
+            <real>369.510739856802</real>
           </dict>
           <key>name</key>
           <string>S_4E00_00</string>
@@ -194,9 +194,9 @@
               <key>coord</key>
               <dict>
                 <key>right_serif_height</key>
-                <integer>98</integer>
+                <real>72.2573090692124</real>
                 <key>right_serif_width</key>
-                <integer>150</integer>
+                <real>131.25</real>
                 <key>width</key>
                 <real>480.90692124105</real>
               </dict>
