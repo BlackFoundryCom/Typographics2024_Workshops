@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S_4E85_00" format="2">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="469" y="825" type="line"/>
+      <point x="576" y="813" type="line"/>
+      <point x="573" y="800"/>
+      <point x="539" y="811"/>
+      <point x="539" y="786" type="curve" smooth="yes"/>
+      <point x="539" y="30" type="line" smooth="yes"/>
+      <point x="539" y="-28"/>
+      <point x="521.4921560909795" y="-65.37922636854276"/>
+      <point x="414" y="-77" type="curve"/>
+      <point x="411" y="-53"/>
+      <point x="404" y="-36"/>
+      <point x="385" y="-23" type="curve"/>
+      <point x="365" y="-11"/>
+      <point x="334" y="-2"/>
+      <point x="275" y="6" type="curve"/>
+      <point x="275" y="22" type="line"/>
+      <point x="275" y="22"/>
+      <point x="378" y="11"/>
+      <point x="440" y="11" type="curve" smooth="yes"/>
+      <point x="463" y="11"/>
+      <point x="469" y="19"/>
+      <point x="469" y="36" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>301</integer>
+          <key>maxValue</key>
+          <integer>310</integer>
+          <key>minValue</key>
+          <integer>250</integer>
+          <key>name</key>
+          <string>height</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
