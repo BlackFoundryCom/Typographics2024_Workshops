@@ -16,9 +16,9 @@
             <key>top_serif_height</key>
             <integer>38</integer>
             <key>top_serif_width</key>
-            <integer>101</integer>
+            <integer>91</integer>
             <key>top_shu_height</key>
-            <real>231.91</real>
+            <real>213.91</real>
             <key>weight</key>
             <integer>66</integer>
             <key>width</key>
@@ -39,7 +39,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>324</integer>
+            <integer>320</integer>
             <key>y</key>
             <integer>515</integer>
           </dict>

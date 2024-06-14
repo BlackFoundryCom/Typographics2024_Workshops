@@ -37,7 +37,7 @@
           <key>maxValue</key>
           <integer>910</integer>
           <key>minValue</key>
-          <integer>550</integer>
+          <integer>450</integer>
           <key>name</key>
           <string>height</string>
         </dict>
@@ -88,16 +88,16 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>height=550</string>
+          <string>height=450</string>
           <key>location</key>
           <dict>
             <key>height</key>
-            <integer>550</integer>
+            <integer>450</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>height=550</string>
+          <string>height=450</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

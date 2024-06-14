@@ -44,7 +44,7 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <integer>550</integer>
+            <integer>489</integer>
             <key>hook_height</key>
             <integer>120</integer>
             <key>hook_width</key>
@@ -161,7 +161,7 @@
             <key>left_length</key>
             <integer>-234</integer>
             <key>right_length</key>
-            <real>195.137665708723</real>
+            <real>245.14</real>
             <key>right_width</key>
             <integer>90</integer>
           </dict>
