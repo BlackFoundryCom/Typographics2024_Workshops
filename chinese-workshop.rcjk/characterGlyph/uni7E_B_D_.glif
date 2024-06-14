@@ -11,11 +11,17 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>width</key>
-            <integer>643</integer>
+            <key>bottom_height</key>
+            <real>103.821004737558</real>
+            <key>bottom_width</key>
+            <real>272.916178057132</real>
+            <key>left_height</key>
+            <real>371.492565317323</real>
+            <key>left_width</key>
+            <real>305.707115718373</real>
           </dict>
           <key>name</key>
-          <string>R_4E11_right</string>
+          <string>S_200CB_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -29,19 +35,25 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <real>-98.19555326234816</real>
             <key>y</key>
-            <integer>0</integer>
+            <integer>501</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
-            <key>width</key>
-            <real>378.677775206357</real>
+            <key>bottom_height</key>
+            <real>118.0444673765185</real>
+            <key>bottom_width</key>
+            <real>349.6474555448055</real>
+            <key>left_height</key>
+            <real>462.19</real>
+            <key>left_width</key>
+            <real>379.3099104617481</real>
           </dict>
           <key>name</key>
-          <string>R_7E9F_left</string>
+          <string>S_200CB_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -55,9 +67,173 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>-98</integer>
             <key>y</key>
+            <integer>245</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_curve</key>
             <integer>0</integer>
+            <key>height</key>
+            <real>196.633191050237</real>
+            <key>serif_height</key>
+            <integer>100</integer>
+            <key>serif_width</key>
+            <real>82.7806182278719</real>
+            <key>top_curve</key>
+            <integer>0</integer>
+            <key>width</key>
+            <real>379.182888503213</real>
+          </dict>
+          <key>name</key>
+          <string>S_31C0_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-22</integer>
+            <key>y</key>
+            <integer>35</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>R_shu_slant</key>
+            <real>29.7481120127586</real>
+            <key>bottom_curve</key>
+            <real>4.7328673952812</real>
+            <key>height</key>
+            <real>795.862845349219</real>
+            <key>topright_serif_height</key>
+            <integer>0</integer>
+            <key>topright_serif_width</key>
+            <integer>0</integer>
+            <key>weight</key>
+            <real>66.1568553872133</real>
+            <key>width</key>
+            <real>481.926919649139</real>
+          </dict>
+          <key>name</key>
+          <string>S_31D5_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>-105.0715324358554</real>
+            <key>y</key>
+            <real>-85.83029222759038</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>serif_height</key>
+            <real>-46.8990451469361</real>
+            <key>serif_with</key>
+            <integer>-100</integer>
+            <key>width</key>
+            <real>440.93387963788194</real>
+          </dict>
+          <key>name</key>
+          <string>S_4E00_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>392.83868849383146</real>
+            <key>y</key>
+            <integer>-74</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>serif_height</key>
+            <real>-21.0094282095783</real>
+            <key>serif_with</key>
+            <real>-51.1421736479197</real>
+            <key>width</key>
+            <real>629.363478587176</real>
+          </dict>
+          <key>name</key>
+          <string>S_4E00_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>329.2762793752049</real>
+            <key>y</key>
+            <real>-473.9018246634458</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <real>754.059758900511</real>
+            <key>slant</key>
+            <real>50.7153243585534</real>
+            <key>weight</key>
+            <real>59.4202354707069</real>
+          </dict>
+          <key>name</key>
+          <string>S_4E28_01</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>61.24963647450611</real>
+            <key>y</key>
+            <integer>-141</integer>
           </dict>
         </dict>
       </array>

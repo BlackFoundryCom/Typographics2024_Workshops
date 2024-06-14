@@ -38,7 +38,7 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <real>65.7755052349647</real>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>R_738B_left</string>
