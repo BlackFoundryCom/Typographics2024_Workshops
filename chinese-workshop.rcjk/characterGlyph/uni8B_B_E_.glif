@@ -145,11 +145,23 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>bottom_ti_angle</key>
+            <real>5.181422855538398</real>
+            <key>bottom_ti_height</key>
+            <real>-39.250771049768375</real>
+            <key>bottom_ti_width</key>
+            <real>-41.96001509195564</real>
+            <key>height</key>
+            <real>622.8425649085709</real>
+            <key>top_heng_left_width</key>
+            <real>21.152388170363626</real>
+            <key>weight</key>
+            <real>37.2935294117647</real>
             <key>width</key>
-            <real>356.43</real>
+            <real>366.80882352941177</real>
           </dict>
           <key>name</key>
-          <string>R_8BA0_left</string>
+          <string>S_31CA_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -163,9 +175,41 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <real>-19.9360294117647</real>
             <key>y</key>
+            <real>-13.361764705882354</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>height</key>
+            <real>196.84761625017538</real>
+            <key>left_curve</key>
             <integer>0</integer>
+            <key>right_curve</key>
+            <real>9.323382352941175</real>
+            <key>width</key>
+            <real>176.0496537378914</real>
+          </dict>
+          <key>name</key>
+          <string>S_4E36_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>-319.99573529411765</real>
+            <key>y</key>
+            <real>268.98507352941175</real>
           </dict>
         </dict>
       </array>
