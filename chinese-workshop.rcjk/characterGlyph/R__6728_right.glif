@@ -172,7 +172,7 @@
                 <key>bottom_curve</key>
                 <integer>100</integer>
                 <key>height</key>
-                <real>889.737470167064</real>
+                <real>914.08</real>
                 <key>top_angle</key>
                 <integer>0</integer>
                 <key>top_serif_height</key>
@@ -199,7 +199,7 @@
                 <key>x</key>
                 <integer>245</integer>
                 <key>y</key>
-                <integer>-59</integer>
+                <integer>-44</integer>
               </dict>
             </dict>
             <dict>
@@ -236,11 +236,11 @@
               <key>coord</key>
               <dict>
                 <key>height</key>
-                <real>577.677505966587</real>
+                <real>548.55</real>
                 <key>left_curve</key>
-                <integer>0</integer>
+                <real>-8.2</real>
                 <key>right_curve</key>
-                <integer>0</integer>
+                <real>-1.51</real>
                 <key>serif_width</key>
                 <real>-37.604415274463</real>
                 <key>serit_height</key>
@@ -248,9 +248,9 @@
                 <key>top_angle</key>
                 <integer>0</integer>
                 <key>top_weight</key>
-                <real>-12.2501491646778</real>
+                <real>-20.484</real>
                 <key>width</key>
-                <real>388.484486873508</real>
+                <real>287.31</real>
               </dict>
               <key>name</key>
               <string>S_31D2_00</string>
@@ -267,9 +267,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>-231</integer>
+                <integer>-81</integer>
                 <key>y</key>
-                <integer>-184</integer>
+                <integer>-174</integer>
               </dict>
             </dict>
             <dict>
@@ -280,9 +280,9 @@
                 <key>end_width</key>
                 <real>46.0844272076372</real>
                 <key>height</key>
-                <real>495.008949880668</real>
+                <real>467.58</real>
                 <key>width</key>
-                <real>336.778639618138</real>
+                <real>221.71</real>
               </dict>
               <key>name</key>
               <string>S_31CF_00</string>
@@ -299,9 +299,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>448</integer>
+                <integer>561</integer>
                 <key>y</key>
-                <integer>-160</integer>
+                <integer>-142</integer>
               </dict>
             </dict>
           </array>

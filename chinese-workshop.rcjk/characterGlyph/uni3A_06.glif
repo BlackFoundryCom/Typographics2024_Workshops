@@ -78,11 +78,11 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <real>577.677505966587</real>
+            <real>548.545644391408</real>
             <key>left_curve</key>
-            <integer>0</integer>
+            <real>-8.20405727923628</real>
             <key>right_curve</key>
-            <integer>0</integer>
+            <real>-1.50656324582339</real>
             <key>serif_width</key>
             <real>-37.604415274463</real>
             <key>serit_height</key>
@@ -90,9 +90,9 @@
             <key>top_angle</key>
             <integer>0</integer>
             <key>top_weight</key>
-            <real>-12.2501491646778</real>
+            <real>-20.4840393794749</real>
             <key>width</key>
-            <real>388.484486873508</real>
+            <real>284.31</real>
           </dict>
           <key>name</key>
           <string>S_31D2_00</string>
@@ -109,9 +109,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-37</integer>
+            <integer>-77</integer>
             <key>y</key>
-            <integer>-184</integer>
+            <integer>-173</integer>
           </dict>
         </dict>
         <dict>
@@ -141,7 +141,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>557</integer>
+            <integer>558</integer>
             <key>y</key>
             <integer>-140</integer>
           </dict>
