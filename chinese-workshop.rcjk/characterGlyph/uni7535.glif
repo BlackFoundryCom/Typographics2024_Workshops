@@ -39,7 +39,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-332</integer>
+            <integer>-328</integer>
             <key>y</key>
             <integer>-179</integer>
           </dict>
@@ -52,13 +52,13 @@
             <key>bottom_curve</key>
             <integer>100</integer>
             <key>height</key>
-            <real>551.3723150358</real>
+            <real>535.620525059666</real>
             <key>topright_serif_height</key>
             <real>0.6041169451073998</real>
             <key>topright_serif_width</key>
             <real>-3.7813245823389003</real>
             <key>weight</key>
-            <real>72.5522076372315</real>
+            <real>70.2155429594272</real>
             <key>width</key>
             <real>730.966587112172</real>
           </dict>
@@ -77,7 +77,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-126</integer>
+            <integer>-122</integer>
             <key>y</key>
             <integer>-171</integer>
           </dict>
@@ -105,9 +105,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>161</integer>
+            <integer>165</integer>
             <key>y</key>
-            <integer>74</integer>
+            <integer>76</integer>
           </dict>
         </dict>
         <dict>
@@ -133,7 +133,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>162</integer>
+            <integer>166</integer>
             <key>y</key>
             <integer>-135</integer>
           </dict>
@@ -144,13 +144,13 @@
             <key>height</key>
             <integer>100</integer>
             <key>hook_height</key>
-            <integer>40</integer>
+            <real>35.346062052506</real>
             <key>serif_height</key>
             <integer>10</integer>
             <key>serif_width</key>
             <integer>10</integer>
             <key>width</key>
-            <real>60.208830548926</real>
+            <real>60.346062052506</real>
           </dict>
           <key>name</key>
           <string>S_4E5A_00</string>
@@ -167,7 +167,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>217</integer>
+            <integer>236</integer>
             <key>y</key>
             <integer>-8</integer>
           </dict>
