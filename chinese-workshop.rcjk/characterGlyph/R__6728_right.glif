@@ -236,9 +236,9 @@
               <key>coord</key>
               <dict>
                 <key>height</key>
-                <real>548.55</real>
+                <real>556.73</real>
                 <key>left_curve</key>
-                <real>-8.2</real>
+                <real>-4.74</real>
                 <key>right_curve</key>
                 <real>-1.51</real>
                 <key>serif_width</key>
@@ -250,7 +250,7 @@
                 <key>top_weight</key>
                 <real>-20.484</real>
                 <key>width</key>
-                <real>287.31</real>
+                <real>260.84</real>
               </dict>
               <key>name</key>
               <string>S_31D2_00</string>
@@ -280,9 +280,9 @@
                 <key>end_width</key>
                 <real>46.0844272076372</real>
                 <key>height</key>
-                <real>467.58</real>
+                <real>482.03</real>
                 <key>width</key>
-                <real>221.71</real>
+                <integer>191</integer>
               </dict>
               <key>name</key>
               <string>S_31CF_00</string>
