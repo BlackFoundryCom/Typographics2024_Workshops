@@ -108,13 +108,13 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <real>229.064737470167</real>
+            <real>249.64946300716</real>
             <key>left_curve</key>
             <real>2.17780429594272</real>
             <key>right_curve</key>
-            <real>7.01073985680192</real>
+            <real>1.2977326968973601</real>
             <key>width</key>
-            <real>333.532219570406</real>
+            <real>355.54892601432</real>
           </dict>
           <key>name</key>
           <string>S_4E36_00</string>
@@ -131,9 +131,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>75</integer>
+            <integer>52</integer>
             <key>y</key>
-            <integer>-217</integer>
+            <integer>-205</integer>
           </dict>
         </dict>
       </array>
