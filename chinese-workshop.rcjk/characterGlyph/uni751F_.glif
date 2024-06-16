@@ -138,20 +138,24 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <real>495.047732696897</real>
-            <key>top_serif_height</key>
-            <integer>28</integer>
-            <key>top_serif_width</key>
-            <integer>101</integer>
-            <key>top_shu_height</key>
-            <integer>433</integer>
-            <key>weight</key>
-            <integer>66</integer>
+            <real>530.455698090692</real>
+            <key>left_curve</key>
+            <real>-16.2738663484487</real>
+            <key>right_curve</key>
+            <real>-15.9904534606205</real>
+            <key>serif_width</key>
+            <real>-10.2550715990453</real>
+            <key>serit_height</key>
+            <integer>0</integer>
+            <key>top_angle</key>
+            <integer>0</integer>
+            <key>top_weight</key>
+            <real>-4.43764916467781</real>
             <key>width</key>
-            <integer>354</integer>
+            <real>338.312947494033</real>
           </dict>
           <key>name</key>
-          <string>S_4E3F_00</string>
+          <string>S_31D2_00</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -165,9 +169,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>3</integer>
+            <integer>-509</integer>
             <key>y</key>
-            <integer>-83</integer>
+            <integer>27</integer>
           </dict>
         </dict>
       </array>
