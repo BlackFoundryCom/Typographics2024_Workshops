@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="R_6728_right" format="2">
+<glyph name="uni3A06" format="2">
   <advance width="1000"/>
+  <unicode hex="3A06"/>
   <outline>
   </outline>
   <lib>
@@ -38,7 +39,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>120</integer>
+            <integer>244</integer>
             <key>y</key>
             <integer>-59</integer>
           </dict>
@@ -68,7 +69,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>314</integer>
+            <integer>438</integer>
             <key>y</key>
             <integer>115</integer>
           </dict>
@@ -108,7 +109,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-231</integer>
+            <integer>-107</integer>
             <key>y</key>
             <integer>-184</integer>
           </dict>
@@ -140,7 +141,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>448</integer>
+            <integer>572</integer>
             <key>y</key>
             <integer>-160</integer>
           </dict>
