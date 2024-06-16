@@ -11,21 +11,11 @@
         <dict>
           <key>coord</key>
           <dict>
-            <key>bottom_curve</key>
+            <key>width</key>
             <integer>100</integer>
-            <key>height</key>
-            <real>889.737470167064</real>
-            <key>top_angle</key>
-            <integer>0</integer>
-            <key>top_serif_height</key>
-            <integer>0</integer>
-            <key>top_serif_width</key>
-            <integer>0</integer>
-            <key>weight</key>
-            <integer>68</integer>
           </dict>
           <key>name</key>
-          <string>S_4E28_00</string>
+          <string>R_6728_right</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -39,111 +29,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>120</integer>
+            <integer>0</integer>
             <key>y</key>
-            <integer>-59</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>serif_height</key>
-            <real>-16.6616945107399</real>
-            <key>serif_with</key>
-            <real>-25.3430787589499</real>
-            <key>width</key>
-            <real>629.713603818616</real>
-          </dict>
-          <key>name</key>
-          <string>S_4E00_00</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
             <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>314</integer>
-            <key>y</key>
-            <integer>115</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>height</key>
-            <real>577.677505966587</real>
-            <key>left_curve</key>
-            <integer>0</integer>
-            <key>right_curve</key>
-            <integer>0</integer>
-            <key>serif_width</key>
-            <real>-37.604415274463</real>
-            <key>serit_height</key>
-            <integer>0</integer>
-            <key>top_angle</key>
-            <integer>0</integer>
-            <key>top_weight</key>
-            <real>-12.2501491646778</real>
-            <key>width</key>
-            <real>388.484486873508</real>
-          </dict>
-          <key>name</key>
-          <string>S_31D2_00</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>-231</integer>
-            <key>y</key>
-            <integer>-184</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>end_height</key>
-            <integer>50</integer>
-            <key>end_width</key>
-            <real>46.0844272076372</real>
-            <key>height</key>
-            <real>495.008949880668</real>
-            <key>width</key>
-            <real>336.778639618138</real>
-          </dict>
-          <key>name</key>
-          <string>S_31CF_00</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>448</integer>
-            <key>y</key>
-            <integer>-160</integer>
           </dict>
         </dict>
       </array>
