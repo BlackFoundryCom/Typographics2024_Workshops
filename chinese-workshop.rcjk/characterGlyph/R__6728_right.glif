@@ -206,11 +206,11 @@
               <key>coord</key>
               <dict>
                 <key>serif_height</key>
-                <real>-13.37</real>
+                <real>-24.0005966587112</real>
                 <key>serif_with</key>
                 <real>-34.84</real>
                 <key>width</key>
-                <real>392.3</real>
+                <real>341.825775656325</real>
               </dict>
               <key>name</key>
               <string>S_4E00_00</string>
@@ -227,7 +227,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>558</integer>
+                <integer>588</integer>
                 <key>y</key>
                 <integer>136</integer>
               </dict>
@@ -240,7 +240,7 @@
                 <key>left_curve</key>
                 <real>-4.74</real>
                 <key>right_curve</key>
-                <real>-1.51</real>
+                <real>-5.02684964200477</real>
                 <key>serif_width</key>
                 <real>-37.604415274463</real>
                 <key>serit_height</key>
@@ -248,7 +248,7 @@
                 <key>top_angle</key>
                 <integer>0</integer>
                 <key>top_weight</key>
-                <real>-20.484</real>
+                <real>-23.6388723150358</real>
                 <key>width</key>
                 <real>260.84</real>
               </dict>
@@ -299,7 +299,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>561</integer>
+                <integer>557</integer>
                 <key>y</key>
                 <integer>-142</integer>
               </dict>
