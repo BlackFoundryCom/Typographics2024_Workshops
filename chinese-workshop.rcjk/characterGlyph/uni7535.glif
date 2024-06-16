@@ -144,13 +144,13 @@
             <key>height</key>
             <integer>100</integer>
             <key>hook_height</key>
-            <real>34.0729415274463</real>
+            <integer>40</integer>
             <key>serif_height</key>
             <integer>10</integer>
             <key>serif_width</key>
             <integer>10</integer>
             <key>width</key>
-            <real>58.054892601432</real>
+            <real>60.208830548926</real>
           </dict>
           <key>name</key>
           <string>S_4E5A_00</string>
@@ -167,7 +167,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>220</integer>
+            <integer>217</integer>
             <key>y</key>
             <integer>-8</integer>
           </dict>
