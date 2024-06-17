@@ -2,9 +2,9 @@
     "fontra.sourceStatusFieldDefinitions": [
         {
             "color": [
-                0.5137,
-                0.0471,
-                0.0471,
+                1,
+                0.4667,
+                0.3843,
                 1
             ],
             "isDefault": true,
@@ -50,6 +50,16 @@
             ],
             "label": "Validated",
             "value": 4
+        },
+        {
+            "color": [
+                0.3922,
+                0,
+                0.3843,
+                1
+            ],
+            "label": "Coulee Vision Pro",
+            "value": 5
         }
     ]
 }

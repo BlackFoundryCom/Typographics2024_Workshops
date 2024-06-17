@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-  <advance width="500"/>
+  <advance width="600"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
@@ -15,6 +15,48 @@
       <point x="225" y="327" type="line"/>
       <point x="275" y="-5" type="line"/>
       <point x="245" y="226" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+      <point x="230" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="454" type="line"/>
+      <point x="283" y="454" type="line"/>
+      <point x="283" y="454" type="line"/>
+      <point x="283" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="454" type="line"/>
+      <point x="283" y="454" type="line"/>
+      <point x="283" y="454" type="line"/>
+      <point x="283" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="454" type="line"/>
+      <point x="283" y="454" type="line"/>
+      <point x="283" y="454" type="line"/>
+      <point x="283" y="454" type="line"/>
     </contour>
   </outline>
   <lib>
