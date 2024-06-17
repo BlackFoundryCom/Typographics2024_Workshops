@@ -1,36 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="R_4EBB_left" format="2">
+<glyph name="uni3463" format="2">
   <advance width="1000"/>
+  <unicode hex="3463"/>
   <outline>
   </outline>
   <lib>
     <dict>
-      <key>robocjk.axes</key>
-      <array>
-        <dict>
-          <key>defaultValue</key>
-          <integer>100</integer>
-          <key>maxValue</key>
-          <integer>100</integer>
-          <key>minValue</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>width</string>
-        </dict>
-      </array>
       <key>robocjk.deepComponents</key>
       <array>
         <dict>
           <key>coord</key>
           <dict>
             <key>height</key>
-            <real>584.691974940334</real>
+            <real>571.636336515513</real>
             <key>left_curve</key>
             <integer>-20</integer>
             <key>right_curve</key>
             <integer>-20</integer>
             <key>serif_width</key>
-            <integer>0</integer>
+            <real>-9.2258353221957</real>
             <key>serit_height</key>
             <integer>0</integer>
             <key>top_angle</key>
@@ -38,7 +26,7 @@
             <key>top_weight</key>
             <integer>0</integer>
             <key>width</key>
-            <real>497.024164677804</real>
+            <real>319.152744630072</real>
           </dict>
           <key>name</key>
           <string>S_31D2_00</string>
@@ -55,9 +43,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-361</integer>
+            <integer>-536</integer>
             <key>y</key>
-            <integer>65</integer>
+            <integer>64</integer>
           </dict>
         </dict>
         <dict>
@@ -66,13 +54,13 @@
             <key>bottom_curve</key>
             <integer>100</integer>
             <key>height</key>
-            <real>677.08830548926</real>
+            <real>660.202863961814</real>
             <key>top_angle</key>
-            <real>-29.7136038186158</real>
+            <real>21.076968973747</real>
             <key>top_serif_height</key>
-            <real>-34.6136634844869</real>
+            <real>-13.7828162291169</real>
             <key>top_serif_width</key>
-            <integer>-50</integer>
+            <real>-8.65155131264916</real>
             <key>weight</key>
             <integer>68</integer>
           </dict>
@@ -91,9 +79,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-187</integer>
+            <integer>-306</integer>
             <key>y</key>
-            <integer>-305</integer>
+            <integer>-296</integer>
           </dict>
         </dict>
       </array>
