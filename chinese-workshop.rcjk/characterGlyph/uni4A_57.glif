@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <real>82.3764304845386</real>
+            <real>56.950044946706</real>
           </dict>
           <key>name</key>
           <string>R_6708_right</string>
@@ -29,7 +29,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>40</integer>
+            <integer>90</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
