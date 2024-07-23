@@ -182,13 +182,13 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <real>231.29826856004</real>
+            <real>260.876503805549</real>
             <key>left_curve</key>
             <integer>0</integer>
             <key>right_curve</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>160</integer>
+            <real>150.184139454947</real>
           </dict>
           <key>name</key>
           <string>S_4E36_00</string>

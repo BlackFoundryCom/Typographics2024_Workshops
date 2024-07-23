@@ -12,33 +12,7 @@
           <key>coord</key>
           <dict>
             <key>width</key>
-            <real>392.178847026782</real>
-          </dict>
-          <key>name</key>
-          <string>R_7E9F_left</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>4</integer>
-            <key>y</key>
-            <integer>-19</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>width</key>
-            <real>82.7734906945075</real>
+            <real>85.2258777314019</real>
           </dict>
           <key>name</key>
           <string>R_4E14_right</string>
@@ -58,6 +32,106 @@
             <integer>0</integer>
             <key>y</key>
             <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_height</key>
+            <real>107.002209673459</real>
+            <key>bottom_width</key>
+            <real>314.411981340535</real>
+            <key>left_height</key>
+            <real>375.596611834029</real>
+            <key>left_width</key>
+            <real>316.950650626074</real>
+          </dict>
+          <key>name</key>
+          <string>S_200CB_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>-104.7269825681316</real>
+            <key>y</key>
+            <integer>482</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_height</key>
+            <real>112.730174318684</real>
+            <key>bottom_width</key>
+            <real>370.1146375946694</real>
+            <key>left_height</key>
+            <real>462.19</real>
+            <key>left_width</key>
+            <real>401.2489823757391</real>
+          </dict>
+          <key>name</key>
+          <string>S_200CB_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-104</integer>
+            <key>y</key>
+            <integer>226</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bottom_curve</key>
+            <real>15.0257795236926</real>
+            <key>height</key>
+            <real>187.966241099926</real>
+            <key>serif_height</key>
+            <integer>100</integer>
+            <key>serif_width</key>
+            <integer>100</integer>
+            <key>top_curve</key>
+            <real>15.3572305425976</real>
+            <key>width</key>
+            <real>374.478271544316</real>
+          </dict>
+          <key>name</key>
+          <string>S_31C0_00</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-28</integer>
+            <key>y</key>
+            <integer>16</integer>
           </dict>
         </dict>
       </array>
