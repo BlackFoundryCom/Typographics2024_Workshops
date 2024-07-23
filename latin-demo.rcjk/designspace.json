@@ -1,44 +1,10 @@
 {
-    "axes": {
-        "axes": [
-            {
-                "defaultValue": 0,
-                "label": "Wavy",
-                "maxValue": 100,
-                "minValue": 0,
-                "name": "wavy",
-                "tag": "wavy"
-            }
-        ]
-    },
     "sources": {
         "af9148c5": {
             "location": {
                 "wavy": 0
             },
-            "name": "Untitled source",
-            "verticalMetrics": {
-                "ascender": {
-                    "value": 800,
-                    "zone": 16
-                },
-                "baseline": {
-                    "value": 0,
-                    "zone": -16
-                },
-                "capHeight": {
-                    "value": 750,
-                    "zone": 16
-                },
-                "descender": {
-                    "value": -250,
-                    "zone": -16
-                },
-                "xHeight": {
-                    "value": 400,
-                    "zone": 10
-                }
-            }
+            "name": "Untitled source"
         }
     }
 }
