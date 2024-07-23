@@ -26,15 +26,15 @@
             <key>bottom_curve</key>
             <integer>100</integer>
             <key>height</key>
-            <real>889.737470167064</real>
+            <real>891.130957644354</real>
             <key>top_angle</key>
-            <integer>0</integer>
+            <real>15.5362985233</real>
             <key>top_serif_height</key>
             <integer>0</integer>
             <key>top_serif_width</key>
-            <integer>0</integer>
+            <real>-2.55990803784597</real>
             <key>weight</key>
-            <integer>68</integer>
+            <real>60.1833937571845</real>
           </dict>
           <key>name</key>
           <string>S_4E28_00</string>
@@ -132,11 +132,11 @@
             <key>end_height</key>
             <integer>50</integer>
             <key>end_width</key>
-            <real>46.0844272076372</real>
+            <real>48.6117251746397</real>
             <key>height</key>
-            <real>495.008949880668</real>
+            <real>478.405694579538</real>
             <key>width</key>
-            <real>336.778639618138</real>
+            <real>347.680519939871</real>
           </dict>
           <key>name</key>
           <string>S_31CF_00</string>
