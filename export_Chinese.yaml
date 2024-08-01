@@ -1,0 +1,19 @@
+steps:
+- input: fontra-read
+  source: chinese-workshop.rcjk
+  steps:
+    - filter: subset-glyphs
+      glyphNames: ['uni3007', 'uni3B51', 'uni4021', 'uni4E00', 'uni4E09', 'uni4E0A', 'uni4E0B', 'uni4E14', 'uni4E2D', 'uni4E30', 'uni4E39', 'uni4E49', 'uni4E8C', 'uni4E98', 'uni4EA1', 'uni4EBB', 'uni4EC3', 'uni4F11', 'uni4F53', 'uni51FA', 'uni5341', 'uni5361', 'uni53E3', 'uni53E4', 'uni53E5', 'uni53EE', 'uni53F6', 'uni5531', 'uni56DB', 'uni572D', 'uni58EB', 'uni5B57', 'uni5C38', 'uni5C84', 'uni5DDD', 'uni5DE5', 'uni5DFE', 'uni5E72', 'uni5E74', 'uni6253', 'uni6288', 'uni630F', 'uni65E5', 'uni65E6', 'uni65E9', 'uni660E', 'uni6728', 'uni672A', 'uni672B', 'uni673E', 'uni6782', 'uni6B62', 'uni6B63', 'uni738E', 'uni73A5', 'uni7518', 'uni751F', 'uni7535', 'uni793A', 'uni7EA2', 'uni7EA6', 'uni7EBD', 'uni7EC4', 'uni812D', 'uni8BA0', 'uni8BA1', 'uni8BA2', 'uni8BBE']
+
+- filter: set-font-info
+  fontInfo:
+    familyName: Chinese Workshop
+    versionMajor: 0
+    versionMinor: 1
+
+- output: compile-fontmake
+  destination: ttf/chinese-workshop.ttf
+  steps:
+  - filter: decompose-composites
+    onlyVariableComposites: true
+  - filter: drop-unreachable-glyphs

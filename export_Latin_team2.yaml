@@ -1,0 +1,19 @@
+steps:
+- input: fontra-read
+  source: latin-team-2.rcjk
+  steps:
+    - filter: subset-glyphs
+      glyphNames: ['zero', 'two', 'four', 'B', 'F', 'T', 'a', 'c', 'g', 'h', 'i', 'n', 'o', 'p', 'r', 's', 't', 'y']
+
+- filter: set-font-info
+  fontInfo:
+    familyName: latin team 2
+    versionMajor: 0
+    versionMinor: 1
+
+- output: compile-fontmake
+  destination: ttf/Latin_team_2.ttf
+  steps:
+  - filter: decompose-composites
+    onlyVariableComposites: true
+  - filter: drop-unreachable-glyphs

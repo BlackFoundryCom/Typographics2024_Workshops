@@ -1,0 +1,19 @@
+steps:
+- input: fontra-read
+  source: latin-team-3.rcjk
+  steps:
+    - filter: subset-glyphs
+      glyphNames: ['zero', 'two', 'four', 'A', 'C', 'G', 'H', 'I', 'O', 'P', 'R', 'S', 'T', 'Y']
+
+- filter: set-font-info
+  fontInfo:
+    familyName: latin team 3
+    versionMajor: 0
+    versionMinor: 1
+
+- output: compile-fontmake
+  destination: ttf/Latin_team_3.ttf
+  steps:
+  - filter: decompose-composites
+    onlyVariableComposites: true
+  - filter: drop-unreachable-glyphs
