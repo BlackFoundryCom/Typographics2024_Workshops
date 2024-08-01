@@ -20,7 +20,7 @@ Create your virtual environment with your terminal with:
 ---
 To build the fonts, run the command line
 
-`sh build.sh`
+`sh build_fonts.sh`
 
 It will create at the root of the repository a folder build, containing the logs and a ttf folder with the fonts
 
