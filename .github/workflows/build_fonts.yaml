@@ -22,7 +22,7 @@ jobs:
 
       - name: Generate fonts
         run: |
-          build.sh
+          ./build.sh
 
       - name: Storing font artifacts and logs
         uses: actions/upload-artifact@v4
