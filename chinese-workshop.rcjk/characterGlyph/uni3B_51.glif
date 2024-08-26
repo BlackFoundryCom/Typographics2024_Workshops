@@ -202,6 +202,11 @@
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>fontra.glyph.locked</key>
+        <true/>
+      </dict>
     </dict>
   </lib>
 </glyph>
