@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VG_53E3_00" format="2">
+  <advance width="1500"/>
+  <outline>
+    <contour>
+      <point x="1" y="-19" type="line"/>
+      <point x="301" y="-19" type="line"/>
+      <point x="301" y="780" type="line"/>
+      <point x="101" y="580" type="line"/>
+      <point x="1401" y="580" type="line"/>
+      <point x="1201" y="780" type="line"/>
+      <point x="1201" y="-19" type="line"/>
+      <point x="1501" y="-19" type="line"/>
+      <point x="1501" y="880" type="line"/>
+      <point x="1" y="880" type="line"/>
+    </contour>
+    <contour>
+      <point x="1" y="-19" type="line"/>
+      <point x="1501" y="-19" type="line"/>
+      <point x="1501" y="281" type="line"/>
+      <point x="1" y="281" type="line"/>
+    </contour>
+  </outline>
+</glyph>
